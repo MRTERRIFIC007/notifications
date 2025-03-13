@@ -1,0 +1,3206 @@
+[
+  {
+    "word": "abound",
+    "meaning": "large numbers or amounts"
+  },
+  {
+    "word": "amorphous",
+    "meaning": "without clear shape or form"
+  },
+  {
+    "word": "austere",
+    "meaning": "strict, lacking comforts"
+  },
+  {
+    "word": "belie",
+    "meaning": "contradict or misrepresent"
+  },
+  {
+    "word": "capricious",
+    "meaning": "sudden mood changes, unpredictable"
+  },
+  {
+    "word": "cerebral",
+    "meaning": "intellectual rather than emotional"
+  },
+  {
+    "word": "congenial",
+    "meaning": "pleasant and agreeable"
+  },
+  {
+    "word": "conspicuous",
+    "meaning": "clearly visible, attracting attention"
+  },
+  {
+    "word": "cursory",
+    "meaning": "hasty and superficial"
+  },
+  {
+    "word": "daunting",
+    "meaning": "difficult, discouraging"
+  },
+  {
+    "word": "deify",
+    "meaning": "worship or regard as a god"
+  },
+  {
+    "word": "didactic",
+    "meaning": "instructive, often patronizing"
+  },
+  {
+    "word": "disseminate",
+    "meaning": "spread widely"
+  },
+  {
+    "word": "feasible",
+    "meaning": "possible to do easily"
+  },
+  {
+    "word": "flout",
+    "meaning": "openly disregard, mock, scoff"
+  },
+  {
+    "word": "homogeneous",
+    "meaning": "of the same kind"
+  },
+  {
+    "word": "humdrum",
+    "meaning": "boring, monotonous"
+  },
+  {
+    "word": "insipid",
+    "meaning": "tasteless, lacking interest"
+  },
+  {
+    "word": "loquacious",
+    "meaning": "talkative"
+  },
+  {
+    "word": "misanthropic",
+    "meaning": "disliking other people"
+  },
+  {
+    "word": "misnomer",
+    "meaning": "wrong or inaccurate name"
+  },
+  {
+    "word": "negligent",
+    "meaning": "failing to take proper care"
+  },
+  {
+    "word": "obsequious",
+    "meaning": "excessively servile"
+  },
+  {
+    "word": "placate",
+    "meaning": "make less angry"
+  },
+  {
+    "word": "proclivity",
+    "meaning": "natural tendency or inclination"
+  },
+  {
+    "word": "puerile",
+    "meaning": "childishly silly"
+  },
+  {
+    "word": "quixotic",
+    "meaning": "extremely idealistic, unrealistic, impractical"
+  },
+  {
+    "word": "spendthrift",
+    "meaning": "wasteful with money"
+  },
+  {
+    "word": "taciturn",
+    "meaning": "saying little"
+  },
+  {
+    "word": "wary",
+    "meaning": "cautious about possible dangers"
+  },
+  {
+    "word": "adulterate",
+    "meaning": "lower quality by adding substances"
+  },
+  {
+    "word": "advocate",
+    "meaning": "publicly recommend or support"
+  },
+  {
+    "word": "aggrandize",
+    "meaning": "increase power, status, reputation of someone"
+  },
+  {
+    "word": "alacrity",
+    "meaning": "brisk and cheerful readiness"
+  },
+  {
+    "word": "ambivalent",
+    "meaning": "having mixed feelings or contradictory ideas"
+  },
+  {
+    "word": "ameliorate",
+    "meaning": "make something bad better"
+  },
+  {
+    "word": "amenable",
+    "meaning": "open to suggestions, easily persuaded, susceptible"
+  },
+  {
+    "word": "anachronistic",
+    "meaning": "belonging to wrong time period"
+  },
+  {
+    "word": "audacious",
+    "meaning": "bold, daring, impudent"
+  },
+  {
+    "word": "avaricious",
+    "meaning": "extremely greedy for wealth"
+  },
+  {
+    "word": "banal",
+    "meaning": "lacking originality, boring"
+  },
+  {
+    "word": "benign",
+    "meaning": "gentle, kind, harmless"
+  },
+  {
+    "word": "brazen",
+    "meaning": "bold and without shame"
+  },
+  {
+    "word": "calumny",
+    "meaning": "false and slanderous statement about someone"
+  },
+  {
+    "word": "candid",
+    "meaning": "truthful and straightforward"
+  },
+  {
+    "word": "castigate",
+    "meaning": "reprimand severely"
+  },
+  {
+    "word": "caustic",
+    "meaning": "sarcastic in a bitter way, chemical"
+  },
+  {
+    "word": "construe",
+    "meaning": "interpret in a particular way"
+  },
+  {
+    "word": "contrite",
+    "meaning": "remorseful for wrongdoing"
+  },
+  {
+    "word": "convoluted",
+    "meaning": "extremely complex and twisted"
+  },
+  {
+    "word": "covet",
+    "meaning": "desire others' possessions"
+  },
+  {
+    "word": "craven",
+    "meaning": "lacking in courage, cowardly"
+  },
+  {
+    "word": "decorum",
+    "meaning": "proper, respectable behavior"
+  },
+  {
+    "word": "deft",
+    "meaning": "demonstrating skill and cleverness"
+  },
+  {
+    "word": "demur",
+    "meaning": "raise objections or show reluctance"
+  },
+  {
+    "word": "derivative",
+    "meaning": "imitative of the work of another"
+  },
+  {
+    "word": "desiccate",
+    "meaning": "cause to become completely dry"
+  },
+  {
+    "word": "diatribe",
+    "meaning": "a forceful and bitter verbal attack"
+  },
+  {
+    "word": "incredulous",
+    "meaning": "unwilling or unable to believe something"
+  },
+  {
+    "word": "ingenuous",
+    "meaning": "innocent, naive or unsuspecting"
+  },
+  {
+    "word": "abate",
+    "meaning": "become less intense"
+  },
+  {
+    "word": "abjure",
+    "meaning": "solemnly renounce (a belief, cause or claim)"
+  },
+  {
+    "word": "anomalous",
+    "meaning": "deviating from what is standard"
+  },
+  {
+    "word": "antipathy",
+    "meaning": "a deep-seated feeling of aversion"
+  },
+  {
+    "word": "arcane",
+    "meaning": "understood by few, mysterious or secret"
+  },
+  {
+    "word": "arduous",
+    "meaning": "involving or requiring strenuous effort, tiring"
+  },
+  {
+    "word": "artless",
+    "meaning": "without deception, effort or pretentiousness, natural"
+  },
+  {
+    "word": "ascetic",
+    "meaning": "severe self-discipline, austere"
+  },
+  {
+    "word": "assuage",
+    "meaning": "satisfy, make an unpleasant feeling less intense"
+  },
+  {
+    "word": "betray",
+    "meaning": "gravely disloyal, unintentionally reveal, be evidence of"
+  },
+  {
+    "word": "bucolic",
+    "meaning": "rural, countryside"
+  },
+  {
+    "word": "burgeon",
+    "meaning": "begin to grow or increase rapidly, flourish"
+  },
+  {
+    "word": "cacophonous",
+    "meaning": "involving or producing harsh sounds"
+  },
+  {
+    "word": "canonize",
+    "meaning": "treat as sacred or significant"
+  },
+  {
+    "word": "censure",
+    "meaning": "express severe disapproval, especially in formal statement"
+  },
+  {
+    "word": "chicanery",
+    "meaning": "use of deception or subterfuge"
+  },
+  {
+    "word": "coalesce",
+    "meaning": "come together as one"
+  },
+  {
+    "word": "cogent",
+    "meaning": "clear, logical and convincing"
+  },
+  {
+    "word": "compelling",
+    "meaning": "irresistibly interesting"
+  },
+  {
+    "word": "contend",
+    "meaning": "struggle against difficulty"
+  },
+  {
+    "word": "copious",
+    "meaning": "abundant in supply"
+  },
+  {
+    "word": "cosmopolitan",
+    "meaning": "mixture of cultures"
+  },
+  {
+    "word": "deference",
+    "meaning": "polite submission and respect"
+  },
+  {
+    "word": "desultory",
+    "meaning": "lacking plan, purpose or enthusiasm, occurring randomly"
+  },
+  {
+    "word": "diffident",
+    "meaning": "shy, lacking confidence"
+  },
+  {
+    "word": "dilatory",
+    "meaning": "slow to act, intended to cause delay"
+  },
+  {
+    "word": "equivocate",
+    "meaning": "use ambiguous language"
+  },
+  {
+    "word": "polarize",
+    "meaning": "divide or cause it divide into two sharply contrasting group"
+  },
+  {
+    "word": "prodigal",
+    "meaning": "spending money recklessly"
+  },
+  {
+    "word": "verbose",
+    "meaning": "using or expressed in more words that are needed"
+  },
+  {
+    "word": "abstain",
+    "meaning": "restrain oneself from doing"
+  },
+  {
+    "word": "approbation",
+    "meaning": "approval or praise"
+  },
+  {
+    "word": "cherish",
+    "meaning": "protect and care for lovingly"
+  },
+  {
+    "word": "corroborate",
+    "meaning": "confirm or support"
+  },
+  {
+    "word": "disparate",
+    "meaning": "fundamentally different"
+  },
+  {
+    "word": "emulate",
+    "meaning": "match or surpass by imitation"
+  },
+  {
+    "word": "enervate",
+    "meaning": "drain of energy"
+  },
+  {
+    "word": "ephemeral",
+    "meaning": "lasting for a very short time"
+  },
+  {
+    "word": "fervid",
+    "meaning": "intensely enthusiastic or passionate, especially to an excessive degree"
+  },
+  {
+    "word": "garrulous",
+    "meaning": "excessively talkative, especially on trivial matters"
+  },
+  {
+    "word": "incendiary",
+    "meaning": "tending to stir up conflict"
+  },
+  {
+    "word": "inimical",
+    "meaning": "tending to obstruct, unfriendly hostile"
+  },
+  {
+    "word": "intimate",
+    "meaning": "closely acquainted, familiar, detailed or thorough"
+  },
+  {
+    "word": "invigorate",
+    "meaning": "give strength or energy to"
+  },
+  {
+    "word": "mitigate",
+    "meaning": "make less severe"
+  },
+  {
+    "word": "obsolete",
+    "meaning": "out of date"
+  },
+  {
+    "word": "opaque",
+    "meaning": "unclear, not transparent"
+  },
+  {
+    "word": "paradigmatic",
+    "meaning": "serving as a typical example of something, of or denoting"
+  },
+  {
+    "word": "pedantic",
+    "meaning": "excessively concerned with minor details, over-scrupulous"
+  },
+  {
+    "word": "placid",
+    "meaning": "not easily upset or excited, calm and peaceful"
+  },
+  {
+    "word": "polemical",
+    "meaning": "strongly critical or argumentative"
+  },
+  {
+    "word": "precipitate",
+    "meaning": "cause to happen suddenly, unexpectedly or prematurely"
+  },
+  {
+    "word": "profundity",
+    "meaning": "great depth of insight or knowledge"
+  },
+  {
+    "word": "prophetic",
+    "meaning": "accurately predicting what will happen in future"
+  },
+  {
+    "word": "prudent",
+    "meaning": "acting with or showing care and thought for future"
+  },
+  {
+    "word": "punctilious",
+    "meaning": "showing great attention to detail or correct behavior"
+  },
+  {
+    "word": "recondite",
+    "meaning": "little known, abstruse"
+  },
+  {
+    "word": "scrupulous",
+    "meaning": "careful, thorough, and extremely attentive to details"
+  },
+  {
+    "word": "tranquil",
+    "meaning": "free from disturbance, calm"
+  },
+  {
+    "word": "vacillate",
+    "meaning": "waver between options"
+  },
+  {
+    "word": "aloof",
+    "meaning": "not friendly, distant, detached"
+  },
+  {
+    "word": "clangor",
+    "meaning": "a continuously loud banging or ringing sound"
+  },
+  {
+    "word": "conventional",
+    "meaning": "following traditional forms and genres"
+  },
+  {
+    "word": "debunk",
+    "meaning": "expose falseness of idea"
+  },
+  {
+    "word": "diminutive",
+    "meaning": "extremely or unusually small"
+  },
+  {
+    "word": "discernible",
+    "meaning": "able to be discerned, perceptible, visible, noticeable"
+  },
+  {
+    "word": "enigmatic",
+    "meaning": "difficult to understand, mysterious"
+  },
+  {
+    "word": "estranged",
+    "meaning": "no longer close to someone, alienated"
+  },
+  {
+    "word": "extravagant",
+    "meaning": "excessive, elaborate"
+  },
+  {
+    "word": "fanciful",
+    "meaning": "over-imaginative, unrealistic, highly ornamental"
+  },
+  {
+    "word": "frivolous",
+    "meaning": "carefree, not having any serious purpose"
+  },
+  {
+    "word": "heterogeneous",
+    "meaning": "diverse in character or content"
+  },
+  {
+    "word": "imperious",
+    "meaning": "arrogant and domineering"
+  },
+  {
+    "word": "impertinent",
+    "meaning": "not showing proper respect, irrelevant"
+  },
+  {
+    "word": "invasive",
+    "meaning": "tending to spread very quickly or undesirably, harmfully"
+  },
+  {
+    "word": "irresolute",
+    "meaning": "showing or feeling hesitancy; uncertain"
+  },
+  {
+    "word": "laudable",
+    "meaning": "deserving praise and commendation"
+  },
+  {
+    "word": "lax",
+    "meaning": "not strict or careful"
+  },
+  {
+    "word": "marginalize",
+    "meaning": "treat as insignificant"
+  },
+  {
+    "word": "panache",
+    "meaning": "flamboyant confidence of style or manner"
+  },
+  {
+    "word": "plodding",
+    "meaning": "slow moving and unexciting"
+  },
+  {
+    "word": "prosaic",
+    "meaning": "lacking originality, commonplace, unromantic"
+  },
+  {
+    "word": "remedial",
+    "meaning": "providing remedy or correction"
+  },
+  {
+    "word": "restive",
+    "meaning": "unable to remain still"
+  },
+  {
+    "word": "sporadic",
+    "meaning": "infrequent, scattered or isolated, occasional"
+  },
+  {
+    "word": "stigmatize",
+    "meaning": "great disapproval"
+  },
+  {
+    "word": "undermine",
+    "meaning": "erode the base/ lessen the effectiveness"
+  },
+  {
+    "word": "utterly",
+    "meaning": "completely or without qualification, absolutely"
+  },
+  {
+    "word": "weary",
+    "meaning": "tired(extreme)"
+  },
+  {
+    "word": "zealous",
+    "meaning": "showing zeal, fervent, passionate, fervid, ardent"
+  },
+  {
+    "word": "admonish",
+    "meaning": "warn or reprimand someone firmly"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "concerned with beauty"
+  },
+  {
+    "word": "affectation",
+    "meaning": "pretension, facade"
+  },
+  {
+    "word": "alleviate",
+    "meaning": "make suffering less severe"
+  },
+  {
+    "word": "analogous",
+    "meaning": "comparable in certain respects"
+  },
+  {
+    "word": "bolster",
+    "meaning": "support or strength"
+  },
+  {
+    "word": "chauvinistic",
+    "meaning": "displaying aggressive patriotism, displaying excessive support for their own cause, group or sex"
+  },
+  {
+    "word": "connoisseur",
+    "meaning": "an expert judge in matters of taste"
+  },
+  {
+    "word": "dissemble",
+    "meaning": "conceal or disguise one's true feelings or beliefs"
+  },
+  {
+    "word": "dogged",
+    "meaning": "showing tenacity and grim persistence"
+  },
+  {
+    "word": "dupe",
+    "meaning": "trick, a victim of deception"
+  },
+  {
+    "word": "empirical",
+    "meaning": "based on observation rather than theory"
+  },
+  {
+    "word": "engender",
+    "meaning": "cause or give rise to a feeling situation"
+  },
+  {
+    "word": "entitled",
+    "meaning": "give someone a legal right"
+  },
+  {
+    "word": "pertinacious",
+    "meaning": "holding firmly to an opinion or a cause of action"
+  },
+  {
+    "word": "probity",
+    "meaning": "having strong moral principles, honesty and decency"
+  },
+  {
+    "word": "proliferate",
+    "meaning": "increase rapidly in number, multiply"
+  },
+  {
+    "word": "specious",
+    "meaning": "superficially plausible but actually wrong"
+  },
+  {
+    "word": "spurious",
+    "meaning": "not being what it purports to be, false or fake"
+  },
+  {
+    "word": "subjective",
+    "meaning": "influenced by personal feelings, tastes, opinions"
+  },
+  {
+    "word": "subvert",
+    "meaning": "undermine the power and authority of system"
+  },
+  {
+    "word": "timorous",
+    "meaning": "lack of confidence, easily frightened"
+  },
+  {
+    "word": "tortuous",
+    "meaning": "full of twists and turns"
+  },
+  {
+    "word": "tractable",
+    "meaning": "easily controlled or managed"
+  },
+  {
+    "word": "transient",
+    "meaning": "lasting for a short time"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning": "present, appearing or found everywhere, omnipresent"
+  },
+  {
+    "word": "underscore",
+    "meaning": "emphasize"
+  },
+  {
+    "word": "venal",
+    "meaning": "bribery, corrupt"
+  },
+  {
+    "word": "venerate",
+    "meaning": "regard with great respect, reverence"
+  },
+  {
+    "word": "appease",
+    "meaning": "pacify or placate, assuage or satisfy"
+  },
+  {
+    "word": "arbitrary",
+    "meaning": "based on random choice"
+  },
+  {
+    "word": "archaic",
+    "meaning": "very old or old-fashioned"
+  },
+  {
+    "word": "clamorous",
+    "meaning": "making loud and confused noise/ expressing or characterized by vehement protects or demands"
+  },
+  {
+    "word": "dearth",
+    "meaning": "a scarcity or lack of something"
+  },
+  {
+    "word": "explicable",
+    "meaning": "able to be accounted for or understood, explainable"
+  },
+  {
+    "word": "hyperbole",
+    "meaning": "exaggerated statements or claims not meant to be taken literally"
+  },
+  {
+    "word": "immutable",
+    "meaning": "unable to be changed"
+  },
+  {
+    "word": "indefatigable",
+    "meaning": "persisting tireless, tireless, untiring"
+  },
+  {
+    "word": "indolent",
+    "meaning": "lazy, idle/ (of medicine) no or little pain"
+  },
+  {
+    "word": "insular",
+    "meaning": "uninterested in cultures, ideas, or peoples outside one's own experience, lacking contact with other people"
+  },
+  {
+    "word": "intransigent",
+    "meaning": "unwilling to change one's views, uncompromising"
+  },
+  {
+    "word": "intrepid",
+    "meaning": "fearless, adventurous (often used for humorous effect)"
+  },
+  {
+    "word": "irreverent",
+    "meaning": "showing lack of respect for people or things that are generally taken seriously"
+  },
+  {
+    "word": "loathe",
+    "meaning": "intense dislike or disgust for"
+  },
+  {
+    "word": "malign",
+    "meaning": "evil in nature, speak about someone in a spitefully critical manner"
+  },
+  {
+    "word": "malleable",
+    "meaning": "easily influenced, pliable"
+  },
+  {
+    "word": "neophyte",
+    "meaning": "a person who is new to a subject, activity, or religion"
+  },
+  {
+    "word": "plastic",
+    "meaning": "easily shaped/artificial/offering scope for creativity"
+  },
+  {
+    "word": "platitude",
+    "meaning": "used too often to be interesting or thoughtful"
+  },
+  {
+    "word": "prescient",
+    "meaning": "foreseeing future events"
+  },
+  {
+    "word": "pristine",
+    "meaning": "spotless, clean and fresh, immaculate"
+  },
+  {
+    "word": "reproach",
+    "meaning": "expression of disapproval"
+  },
+  {
+    "word": "robust",
+    "meaning": "vigorous/ able to withstand adverse conditions/ forceful"
+  },
+  {
+    "word": "sanction",
+    "meaning": "official permission/ a threatened penalty for disobeying rule"
+  },
+  {
+    "word": "sedulous",
+    "meaning": "showing dedication and diligence"
+  },
+  {
+    "word": "soporific",
+    "meaning": "tediously boring or monotonous"
+  },
+  {
+    "word": "stern",
+    "meaning": "serious, strict and severe"
+  },
+  {
+    "word": "tendentious",
+    "meaning": "intending to promote a point of view (controversial one)"
+  },
+  {
+    "word": "accentuate",
+    "meaning": "make more noticeable or prominent"
+  },
+  {
+    "word": "conjectural",
+    "meaning": "based on or involving conjecture, speculative"
+  },
+  {
+    "word": "convivial",
+    "meaning": "friendly, lively and enjoyable"
+  },
+  {
+    "word": "decadent",
+    "meaning": "characterized by a state of moral or cultural decline, person who is luxuriously self-indulgent"
+  },
+  {
+    "word": "egregious",
+    "meaning": "outstandingly bad, shocking"
+  },
+  {
+    "word": "evanescent",
+    "meaning": "soon passing out of sight, memory or existence, quickly fading or disappearing"
+  },
+  {
+    "word": "flamboyant",
+    "meaning": "tending to attract attention because of confidence, stylishness/ bright, colorful and noticeable"
+  },
+  {
+    "word": "forestall",
+    "meaning": "prevent or obstruct by taking advanced action"
+  },
+  {
+    "word": "gainsay",
+    "meaning": "deny, contradict, speak against or oppose"
+  },
+  {
+    "word": "galvanize",
+    "meaning": "shock or excite someone into taking action"
+  },
+  {
+    "word": "indiscriminate",
+    "meaning": "done at random or without careful judgment"
+  },
+  {
+    "word": "innocuous",
+    "meaning": "not harmful or offensive"
+  },
+  {
+    "word": "momentary",
+    "meaning": "lasting very short time, brief"
+  },
+  {
+    "word": "mundane",
+    "meaning": "lacking interest or excitement, dull"
+  },
+  {
+    "word": "nettlesome",
+    "meaning": "causing annoyance or difficulty"
+  },
+  {
+    "word": "nullify",
+    "meaning": "make null and void, invalidate"
+  },
+  {
+    "word": "obviate",
+    "meaning": "remove, avoid or prevent"
+  },
+  {
+    "word": "omnipresent",
+    "meaning": "widespread, constantly encountered"
+  },
+  {
+    "word": "oust",
+    "meaning": "drive out or expel from a position or place"
+  },
+  {
+    "word": "palpable",
+    "meaning": "so intense as to seem, almost tangible/ plain to see or comprehend, able to be touched or felt"
+  },
+  {
+    "word": "perfidy",
+    "meaning": "state of being deceitful and untrustworthy"
+  },
+  {
+    "word": "profuse",
+    "meaning": "abundant"
+  },
+  {
+    "word": "sagacious",
+    "meaning": "wise or shrewd, intelligent"
+  },
+  {
+    "word": "sanguine",
+    "meaning": "optimistic, positive/blood-red"
+  },
+  {
+    "word": "scant",
+    "meaning": "insufficient or barely sufficient"
+  },
+  {
+    "word": "skulduggery",
+    "meaning": "dishonest behavior or activities/ trickery"
+  },
+  {
+    "word": "trivial",
+    "meaning": "of little value or importance"
+  },
+  {
+    "word": "utilitarian",
+    "meaning": "designed to be useful or practical rather"
+  },
+  {
+    "word": "vapid",
+    "meaning": "offering nothing that is stimulating or challenging/ bland"
+  },
+  {
+    "word": "boorish",
+    "meaning": "rough and bad-mannered, coarse"
+  },
+  {
+    "word": "brook",
+    "meaning": "a small stream"
+  },
+  {
+    "word": "circumspect",
+    "meaning": "wary, cautious"
+  },
+  {
+    "word": "comity",
+    "meaning": "an association of nations for their mutual benefit/ considerate behavior towards others"
+  },
+  {
+    "word": "commensurate",
+    "meaning": "corresponding in size or degree, in proportion"
+  },
+  {
+    "word": "cordial",
+    "meaning": "warm and friendly"
+  },
+  {
+    "word": "deleterious",
+    "meaning": "causing harm"
+  },
+  {
+    "word": "dichotomy",
+    "meaning": "division into contrasting parts"
+  },
+  {
+    "word": "edify",
+    "meaning": "instruct or improve (someone) morally or intellectually"
+  },
+  {
+    "word": "elicit",
+    "meaning": "evoke or draw out (a reaction answer) from someone"
+  },
+  {
+    "word": "erudite",
+    "meaning": "having or showing great knowledge or learning"
+  },
+  {
+    "word": "fecund",
+    "meaning": "highly fertile"
+  },
+  {
+    "word": "feeble",
+    "meaning": "lacking physical strength/ lacking strength of character/ failing to convince or impress"
+  },
+  {
+    "word": "felicitous",
+    "meaning": "well chosen or suited to the circumstances/ pleasing"
+  },
+  {
+    "word": "forbear",
+    "meaning": "refrain from doing something"
+  },
+  {
+    "word": "haphazard",
+    "meaning": "lacking any obvious principle of organization"
+  },
+  {
+    "word": "hodgepodge",
+    "meaning": "a confused mixture"
+  },
+  {
+    "word": "impede",
+    "meaning": "hinder"
+  },
+  {
+    "word": "impetuous",
+    "meaning": "acting or done quickly and without thought or care"
+  },
+  {
+    "word": "irascible",
+    "meaning": "having or showing a tendency to be easily agreed"
+  },
+  {
+    "word": "mercenary",
+    "meaning": "making money at the expense of ethics/ a professional soldier hired to serve in a foreign army"
+  },
+  {
+    "word": "meticulous",
+    "meaning": "very careful and precious"
+  },
+  {
+    "word": "mordant",
+    "meaning": "(humor) having or showing a sharp or critical quality, biting"
+  },
+  {
+    "word": "outstrip",
+    "meaning": "move faster and overtake/ exceed"
+  },
+  {
+    "word": "precarious",
+    "meaning": "not securely held or in position; dangerously likely to fall or collapse/ uncertain"
+  },
+  {
+    "word": "quirky",
+    "meaning": "having or characterized by peculiar or unexpected traits or aspects"
+  },
+  {
+    "word": "repudiate",
+    "meaning": "refuse to accept/ deny the truth or validity"
+  },
+  {
+    "word": "tact",
+    "meaning": "skill and sensitivity in dealing with others or with difficult issues"
+  },
+  {
+    "word": "trifling",
+    "meaning": "unimportant or trivial"
+  },
+  {
+    "word": "turbulent",
+    "meaning": "characterized by conflict, disorder/ not stable"
+  },
+  {
+    "word": "acumen",
+    "meaning": "the ability to make good judgments and take quick decisions"
+  },
+  {
+    "word": "antithesis",
+    "meaning": "contrast or opposition between two things"
+  },
+  {
+    "word": "ascribe",
+    "meaning": "regard text, quotation or work/ regard a quality as belonging to"
+  },
+  {
+    "word": "befuddled",
+    "meaning": "unable to think clearly"
+  },
+  {
+    "word": "eschew",
+    "meaning": "deliberately avoid using; abstain from"
+  },
+  {
+    "word": "esoteric",
+    "meaning": "likely to be understood by only a small number of people/ abstruse/ arcane/ obscure"
+  },
+  {
+    "word": "evasive",
+    "meaning": "tending to avoid commitment or self-revelation"
+  },
+  {
+    "word": "exculpate",
+    "meaning": "show or declare that someone is not guilty of wrongdoing"
+  },
+  {
+    "word": "expedite",
+    "meaning": "make (an action) happen sooner or be accomplished more quickly"
+  },
+  {
+    "word": "fastidious",
+    "meaning": "very attentive and concerned about accuracy and detail"
+  },
+  {
+    "word": "feign",
+    "meaning": "pretend to be affected by (a feeling, state or injury)"
+  },
+  {
+    "word": "furtive",
+    "meaning": "secretive/ suggestive of guilty nervousness"
+  },
+  {
+    "word": "hamper",
+    "meaning": "basket/ hinder"
+  },
+  {
+    "word": "indispensable",
+    "meaning": "absolutely necessary"
+  },
+  {
+    "word": "lament",
+    "meaning": "a passionate expression of grief or sorrow"
+  },
+  {
+    "word": "myopic",
+    "meaning": "short-sighted"
+  },
+  {
+    "word": "nonchalant",
+    "meaning": "calm and relaxed/ not displaying anxiety"
+  },
+  {
+    "word": "partial",
+    "meaning": "incomplete/ biased/ having a liking for"
+  },
+  {
+    "word": "pensive",
+    "meaning": "engaged in serious thought"
+  },
+  {
+    "word": "portend",
+    "meaning": "be a sign or warning that something calamitous is likely to happen"
+  },
+  {
+    "word": "provincial",
+    "meaning": "concerning a province of a country/religions regarded as narrow minded"
+  },
+  {
+    "word": "rudimentary",
+    "meaning": "limited to basic principles/ relating to immature form"
+  },
+  {
+    "word": "salutary",
+    "meaning": "producing good efforts/ beneficial"
+  },
+  {
+    "word": "sever",
+    "meaning": "divide by cutting or slicing, suddenly and forcibly/ put to an end/ break off"
+  },
+  {
+    "word": "slight",
+    "meaning": "small in degree/ inconsiderate/ insult by treating without proper respect"
+  },
+  {
+    "word": "somnolent",
+    "meaning": "sleepy, drowsy"
+  },
+  {
+    "word": "stoic",
+    "meaning": "a person who can endure pain without complaining"
+  },
+  {
+    "word": "supersede",
+    "meaning": "replace"
+  },
+  {
+    "word": "tout",
+    "meaning": "attempt to sell/ attempt to persuade people of the merits of/ informer"
+  },
+  {
+    "word": "wane",
+    "meaning": "decrease in vigor or extent, become weaker"
+  },
+  {
+    "word": "abhor",
+    "meaning": "regard with disgust and hatred"
+  },
+  {
+    "word": "boisterous",
+    "meaning": "noisy, energetic and cheerful/(of weather) stormy"
+  },
+  {
+    "word": "chivalrous",
+    "meaning": "courteous and gallant especially towards women"
+  },
+  {
+    "word": "churlish",
+    "meaning": "rude in a mean-spirited and surly way"
+  },
+  {
+    "word": "clandestine",
+    "meaning": "kept secret or done secretively"
+  },
+  {
+    "word": "complacent",
+    "meaning": "showing smug or uncritical satisfaction with oneself or one's achievements/ self-satisfied"
+  },
+  {
+    "word": "cumbersome",
+    "meaning": "large or heavy and therefore difficult to carry or use/ unwieldy/ complicated, inefficient"
+  },
+  {
+    "word": "debilitating",
+    "meaning": "make someone weak and infirm/ hinder, delay"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "done consciously and intentionally"
+  },
+  {
+    "word": "droll",
+    "meaning": "curious or unusual in a way that provokes dry amusement/ funny/ comic/ amusing"
+  },
+  {
+    "word": "eccentric",
+    "meaning": "(of a person) unconventional and slightly strange"
+  },
+  {
+    "word": "fractious",
+    "meaning": "irritable and quarrelsome/ difficult to control, unruly"
+  },
+  {
+    "word": "limpid",
+    "meaning": "completely clear and transparent/ accessible or melodious"
+  },
+  {
+    "word": "mawkish",
+    "meaning": "sentimental in an exaggerated or false way"
+  },
+  {
+    "word": "obeisance",
+    "meaning": "deferential respect, bow or curtsy"
+  },
+  {
+    "word": "ostentatious",
+    "meaning": "characterized by pretentious or showy display; designed to impress"
+  },
+  {
+    "word": "panacea",
+    "meaning": "a solution or remedy for all difficulties or diseases"
+  },
+  {
+    "word": "perfunctory",
+    "meaning": "carried out without real interest, feeling/ desultory"
+  },
+  {
+    "word": "perilous",
+    "meaning": "fall of danger or risk"
+  },
+  {
+    "word": "pervasive",
+    "meaning": "(unwelcome influence) spreading widely throughout an area or a group of people"
+  },
+  {
+    "word": "preclude",
+    "meaning": "prevent from happening; make impossible"
+  },
+  {
+    "word": "predilection",
+    "meaning": "a preference or special liking for something/ bias in favor"
+  },
+  {
+    "word": "rapacious",
+    "meaning": "aggressively greedy or grasping"
+  },
+  {
+    "word": "relish",
+    "meaning": "great enjoyment/ pleasurable anticipation"
+  },
+  {
+    "word": "satirical",
+    "meaning": "containing or using satire/ mocking another's weakness"
+  },
+  {
+    "word": "sham",
+    "meaning": "a person who pretends to be someone or something they are not"
+  },
+  {
+    "word": "skirt",
+    "meaning": "be situated along or around the edge of/ avoid dealing with"
+  },
+  {
+    "word": "sluggish",
+    "meaning": "slow moving, lacking energy or alertness"
+  },
+  {
+    "word": "spartan",
+    "meaning": "austerity or lack of comfort or luxury/ harsh/ hard/ frugal"
+  },
+  {
+    "word": "truculent",
+    "meaning": "eager to argue; aggressively defiant"
+  },
+  {
+    "word": "acrimonious",
+    "meaning": "angry and bitter"
+  },
+  {
+    "word": "belligerent",
+    "meaning": "hostile and aggressive"
+  },
+  {
+    "word": "beneficent",
+    "meaning": "generous and doing good"
+  },
+  {
+    "word": "canny",
+    "meaning": "showing shrewdness and good judgment especially in money or business"
+  },
+  {
+    "word": "cavalier",
+    "meaning": "dashing man as a lady's escort/ showing lack of concern"
+  },
+  {
+    "word": "distressed",
+    "meaning": "suffering from extreme anxiety, sorrow or pain"
+  },
+  {
+    "word": "dwindling",
+    "meaning": "gradually diminishing in size, amount or strength"
+  },
+  {
+    "word": "eclipse",
+    "meaning": "deprive something of significance and power"
+  },
+  {
+    "word": "encyclopedia",
+    "meaning": "comprehensive in terms of information"
+  },
+  {
+    "word": "exacerbate",
+    "meaning": "make problems worse"
+  },
+  {
+    "word": "exasperated",
+    "meaning": "intensely irritated and frustrated"
+  },
+  {
+    "word": "fungible",
+    "meaning": "mutually interchangeable"
+  },
+  {
+    "word": "hackneyed",
+    "meaning": "having been overused; unoriginal and trite"
+  },
+  {
+    "word": "incongruous",
+    "meaning": "not in harmony or keeping with surroundings"
+  },
+  {
+    "word": "interchangeable",
+    "meaning": "apparently identical"
+  },
+  {
+    "word": "laconic",
+    "meaning": "using very few words"
+  },
+  {
+    "word": "lucrative",
+    "meaning": "providing a great deal or profit"
+  },
+  {
+    "word": "magisterial",
+    "meaning": "domineering, dictatorial"
+  },
+  {
+    "word": "onerous",
+    "meaning": "involving great deal of effort, trouble, and burdensome"
+  },
+  {
+    "word": "opprobrium",
+    "meaning": "harsh criticism or censure"
+  },
+  {
+    "word": "parsimonious",
+    "meaning": "very unwilling to spend money or use resources"
+  },
+  {
+    "word": "peripheral",
+    "meaning": "minor importance, marginal"
+  },
+  {
+    "word": "provocative",
+    "meaning": "causing anger or another strong reaction, especially deliberately/ annoying"
+  },
+  {
+    "word": "renounce",
+    "meaning": "formally declare one's abandonment"
+  },
+  {
+    "word": "tenable",
+    "meaning": "defensible"
+  },
+  {
+    "word": "transgression",
+    "meaning": "act that goes against law"
+  },
+  {
+    "word": "urbane",
+    "meaning": "courteous and refined in manner"
+  },
+  {
+    "word": "verisimilitude",
+    "meaning": "the appearance of being true or real"
+  },
+  {
+    "word": "vitiate",
+    "meaning": "spoil or impair thee quality or efficiency of something"
+  },
+  {
+    "word": "affinity",
+    "meaning": "a natural liking for something/ resemblance"
+  },
+  {
+    "word": "altruistic",
+    "meaning": "selfless"
+  },
+  {
+    "word": "baroque",
+    "meaning": "highly ornate and extravagant in style"
+  },
+  {
+    "word": "byzantine",
+    "meaning": "excessively complicated/ characterized by deviousness"
+  },
+  {
+    "word": "compromise",
+    "meaning": "agreement/ harm by accepting standards that are lower than is desirable/ cause to become vulnerable"
+  },
+  {
+    "word": "conciliatory",
+    "meaning": "intended or likely to placate or pacify"
+  },
+  {
+    "word": "countenance",
+    "meaning": "facial expression / support or approval"
+  },
+  {
+    "word": "covert",
+    "meaning": "not openly acknowledged or displayed/secretive, clandestine"
+  },
+  {
+    "word": "credible",
+    "meaning": "able to be believed, trustworthy"
+  },
+  {
+    "word": "diffuse",
+    "meaning": "unnecessarily wordy"
+  },
+  {
+    "word": "documentary",
+    "meaning": "based on official documents or aspects, comprehensive"
+  },
+  {
+    "word": "exhaustive",
+    "meaning": "including all elements or aspects, comprehensive"
+  },
+  {
+    "word": "exhilarating",
+    "meaning": "thrilling, making one feel very happy, animated"
+  },
+  {
+    "word": "extraneous",
+    "meaning": "irrelevant or unrelated to the subject"
+  },
+  {
+    "word": "fervor",
+    "meaning": "intense and passionate feeling"
+  },
+  {
+    "word": "futile",
+    "meaning": "fruitless, pointless"
+  },
+  {
+    "word": "illusory",
+    "meaning": "based on illusion"
+  },
+  {
+    "word": "invidious",
+    "meaning": "unpleasant, illusion"
+  },
+  {
+    "word": "lethargic",
+    "meaning": "sluggish, lazy"
+  },
+  {
+    "word": "metaphorical",
+    "meaning": "figurative"
+  },
+  {
+    "word": "mimic",
+    "meaning": "imitate"
+  },
+  {
+    "word": "numinous",
+    "meaning": "having strong religious or spiritual quality"
+  },
+  {
+    "word": "obscure",
+    "meaning": "not discovered or known about/ abstruse"
+  },
+  {
+    "word": "overt",
+    "meaning": "done or shown openly"
+  },
+  {
+    "word": "pellucid",
+    "meaning": "clear, easily understood"
+  },
+  {
+    "word": "perpetuate",
+    "meaning": "make (something) continue indefinitely"
+  },
+  {
+    "word": "rational",
+    "meaning": "based on or in accordance with reason or logic"
+  },
+  {
+    "word": "scathing",
+    "meaning": "scornful/ harm"
+  },
+  {
+    "word": "subtle",
+    "meaning": "delicately complex/ making use of clever and indirect methods to achieve something"
+  },
+  {
+    "word": "superficial",
+    "meaning": "appearing to be true but not/ cursory/ not through"
+  },
+  {
+    "word": "acquiesce",
+    "meaning": "accept something reluctantly without protest"
+  },
+  {
+    "word": "adroit",
+    "meaning": "clever or skillful"
+  },
+  {
+    "word": "amend",
+    "meaning": "improve by minor change"
+  },
+  {
+    "word": "animus",
+    "meaning": "hostility or ill feeling/ motivation to do something"
+  },
+  {
+    "word": "apologist",
+    "meaning": "a person who offers an argument in defense of something controversial/ defender"
+  },
+  {
+    "word": "astringent",
+    "meaning": "sharp or severe in manner or style/ causing the contraction of skin cells and other body tissues"
+  },
+  {
+    "word": "collaborate",
+    "meaning": "work jointly on an activity or project/ corporate"
+  },
+  {
+    "word": "competent",
+    "meaning": "efficient and capable"
+  },
+  {
+    "word": "correlate",
+    "meaning": "correspond, connect"
+  },
+  {
+    "word": "deride",
+    "meaning": "ridicule"
+  },
+  {
+    "word": "dictate",
+    "meaning": "an order or principle that must be obeyed/ give orders"
+  },
+  {
+    "word": "discreet",
+    "meaning": "careful in order to keep something confidential/ intentionally unobtrusive"
+  },
+  {
+    "word": "divorced",
+    "meaning": "separate from something typically with an undesirable effect"
+  },
+  {
+    "word": "elitist",
+    "meaning": "demonstrating a superior attitude or behavior associated with an elite"
+  },
+  {
+    "word": "exacting",
+    "meaning": "demanding/ inflict (revenge) on someone"
+  },
+  {
+    "word": "flummoxed",
+    "meaning": "bewildered or perplexed"
+  },
+  {
+    "word": "fruitful",
+    "meaning": "fertile, productive"
+  },
+  {
+    "word": "inborn",
+    "meaning": "natural to a person, or animal"
+  },
+  {
+    "word": "polymath",
+    "meaning": "a person of wide knowledge or learning"
+  },
+  {
+    "word": "reticent",
+    "meaning": "reserved, not revealing one's feelings readily"
+  },
+  {
+    "word": "stringent",
+    "meaning": "strict, precise and exacting"
+  },
+  {
+    "word": "subservient",
+    "meaning": "prepared to obey others unquestioningly, subordinate"
+  },
+  {
+    "word": "surreptitious",
+    "meaning": "keep secret, especially because it would not be approved of"
+  },
+  {
+    "word": "tantalizing",
+    "meaning": "torment or teasing with the sight or promise of something unobtainable"
+  },
+  {
+    "word": "tantamount",
+    "meaning": "equivalent in seriousness to; virtually the same as"
+  },
+  {
+    "word": "torpor",
+    "meaning": "a state of physical or mental inactivity, lethargy"
+  },
+  {
+    "word": "trenchant",
+    "meaning": "vigorous or incisive in expression or style"
+  },
+  {
+    "word": "umbrage",
+    "meaning": "offense or annoyance"
+  },
+  {
+    "word": "versatile",
+    "meaning": "adoptable to many different functions or activities"
+  },
+  {
+    "word": "wayward",
+    "meaning": "difficult to control or predict because of willful or perverse behavior"
+  },
+  {
+    "word": "alienate",
+    "meaning": "make someone feel isolated or estranged"
+  },
+  {
+    "word": "apathy",
+    "meaning": "lack of interest, enthusiasm or concern"
+  },
+  {
+    "word": "apropos",
+    "meaning": "with reference to; concerning/very appropriate to a particular situation"
+  },
+  {
+    "word": "apt",
+    "meaning": "suitable in the circumstances/ having a tendency to do something/ quick to learn"
+  },
+  {
+    "word": "cloak",
+    "meaning": "something serving to hide or disguise something"
+  },
+  {
+    "word": "consensus",
+    "meaning": "a general agreement"
+  },
+  {
+    "word": "distant",
+    "meaning": "pull or twist out of shape/give an misleading or false account of or impression of"
+  },
+  {
+    "word": "divergent",
+    "meaning": "tending to be different or develop in different directions"
+  },
+  {
+    "word": "elated",
+    "meaning": "make someone ecstatically happy"
+  },
+  {
+    "word": "enchant",
+    "meaning": "fill someone with great delight/ put under a spell"
+  },
+  {
+    "word": "entrenched",
+    "meaning": "(of an attitude, habit or belief) firmly established and difficult or unlikely to change; ingrained"
+  },
+  {
+    "word": "exotic",
+    "meaning": "organizing in or characteristic of a distant foreign country/ attractive/ specially produced"
+  },
+  {
+    "word": "exploitative",
+    "meaning": "treating others unfairly in order to gain an advantage"
+  },
+  {
+    "word": "foreseeable",
+    "meaning": "able to foreseen or predicted"
+  },
+  {
+    "word": "forsake",
+    "meaning": "abandon, renounce"
+  },
+  {
+    "word": "gratify",
+    "meaning": "give someone pleasure or satisfaction"
+  },
+  {
+    "word": "heed",
+    "meaning": "pay attention to/ take notice of"
+  },
+  {
+    "word": "judicious",
+    "meaning": "having, showing or done with good judgment"
+  },
+  {
+    "word": "lucid",
+    "meaning": "expressed clearly; easy to understand"
+  },
+  {
+    "word": "pertinent",
+    "meaning": "relevant to a particular matter, apposite"
+  },
+  {
+    "word": "propriety",
+    "meaning": "conformity to conventionally accepted standards of behavior/ the condition of being right"
+  },
+  {
+    "word": "scintillation",
+    "meaning": "shining brightly/ brilliantly clever"
+  },
+  {
+    "word": "sensational",
+    "meaning": "causing great public interest and excitement"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "having, revealing or involving a great deal of worldly experience and knowledge of fashion or culture"
+  },
+  {
+    "word": "strife",
+    "meaning": "angry or bitter disagreement over fundamental issues"
+  },
+  {
+    "word": "understated",
+    "meaning": "presented or expressed in a subtle and effective way"
+  },
+  {
+    "word": "unscrupulous",
+    "meaning": "having or showing no moral principles; not honest or fair"
+  },
+  {
+    "word": "veracity",
+    "meaning": "conformity to facts; accuracy/ habitual truthfulness"
+  },
+  {
+    "word": "virulent",
+    "meaning": "extremely harmful or infectious"
+  },
+  {
+    "word": "violate",
+    "meaning": "(of a substance) easily evaporated at normal temperatures / liable to change rapidly and unpredictably, especially for the worse"
+  },
+  {
+    "word": "antedate",
+    "meaning": "precede in time/ come before in date"
+  },
+  {
+    "word": "banish",
+    "meaning": "send someone away from a country as an official punishment/ get rid of"
+  },
+  {
+    "word": "bridle",
+    "meaning": "used to control movement/ show one's anger"
+  },
+  {
+    "word": "comply",
+    "meaning": "act in accordance with a wish or command"
+  },
+  {
+    "word": "crestfallen",
+    "meaning": "sad and disappointed"
+  },
+  {
+    "word": "curtain",
+    "meaning": "piece of material/ a disastrous outcome"
+  },
+  {
+    "word": "elucidate",
+    "meaning": "make something clear/ explain"
+  },
+  {
+    "word": "evade",
+    "meaning": "escape or avoid something especially by guile or trickery"
+  },
+  {
+    "word": "feckless",
+    "meaning": "lacking initiative or strength of character, irresponsible"
+  },
+  {
+    "word": "fester",
+    "meaning": "(of wound) become septic, (of feeling) become worse,"
+  },
+  {
+    "word": "iconoclastic",
+    "meaning": "criticizing cherished beliefs or institutions"
+  },
+  {
+    "word": "immure",
+    "meaning": "enclose or confine against their will"
+  },
+  {
+    "word": "improvise",
+    "meaning": "create and perform spontaneously or without prep/ make from whatever is available"
+  },
+  {
+    "word": "inhibit",
+    "meaning": "prevent/ make someone self-conscious/ forbid to function"
+  },
+  {
+    "word": "inscrutable",
+    "meaning": "impossible to understand or interpret"
+  },
+  {
+    "word": "lionize",
+    "meaning": "give a lot of public attention and approval to someone"
+  },
+  {
+    "word": "monotonous",
+    "meaning": "dull, tedious, lacking in variety"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "strange/ particular; special/ belonging exclusively to"
+  },
+  {
+    "word": "premeditate",
+    "meaning": "think out or plan beforehand"
+  },
+  {
+    "word": "profligate",
+    "meaning": "wasteful in the use of resources/ licentious, dissolute"
+  },
+  {
+    "word": "recondite",
+    "meaning": "restore/ settle/ show to be compatible/accept"
+  },
+  {
+    "word": "refine",
+    "meaning": "remove impurities/ make minor changes to improve"
+  },
+  {
+    "word": "relinquish",
+    "meaning": "voluntarily cease to keep or claim/ give up"
+  },
+  {
+    "word": "ruminate",
+    "meaning": "think deeply about something"
+  },
+  {
+    "word": "skittish",
+    "meaning": "(of animal) easily scared, (of person) unpredictable, playfully frivolous"
+  },
+  {
+    "word": "superfluous",
+    "meaning": "unnecessary, especially through being more than enough/ surplus, redundant"
+  },
+  {
+    "word": "synoptic",
+    "meaning": "of or forming general summary/ taking or involving a comprehensive mental views"
+  },
+  {
+    "word": "thorough",
+    "meaning": "complete with regard to every detail"
+  },
+  {
+    "word": "visionary",
+    "meaning": "thinking about or planning the future with imagination"
+  },
+  {
+    "word": "vociferous",
+    "meaning": "loud and forceful"
+  },
+  {
+    "word": "acclaim",
+    "meaning": "praise enthusiastically and publicly"
+  },
+  {
+    "word": "ascertain",
+    "meaning": "find (something) out for certain, make sure of"
+  },
+  {
+    "word": "assertive",
+    "meaning": "having or showing a confident and forceful personality"
+  },
+  {
+    "word": "bogus",
+    "meaning": "not genuine or true"
+  },
+  {
+    "word": "cataclysmic",
+    "meaning": "large-scale and violent"
+  },
+  {
+    "word": "circumscribe",
+    "meaning": "restrict (something) within limits"
+  },
+  {
+    "word": "complementary",
+    "meaning": "combining in such a way as to enhance or emphasize the qualities of each other or another"
+  },
+  {
+    "word": "contentious",
+    "meaning": "controversial, quarrelsome"
+  },
+  {
+    "word": "disingenuous",
+    "meaning": "not candid or sincere/ typically pretending that one"
+  },
+  {
+    "word": "divulge",
+    "meaning": "make known (private or sensitive info)/ disclose/ reveal"
+  },
+  {
+    "word": "dogmatic",
+    "meaning": "inclined to law down principles as underlying true/ highly opinionated"
+  },
+  {
+    "word": "fallacious",
+    "meaning": "based on a mistaken belief"
+  },
+  {
+    "word": "foolhardy",
+    "meaning": "recklessly bold or harsh"
+  },
+  {
+    "word": "hinder",
+    "meaning": "obstruct/ (body part) rear, hind"
+  },
+  {
+    "word": "impair",
+    "meaning": "weaken or damage"
+  },
+  {
+    "word": "impugn",
+    "meaning": "dispute the truth, call into question/ challenge"
+  },
+  {
+    "word": "incessant",
+    "meaning": "continuing without pause or interruption"
+  },
+  {
+    "word": "inclined",
+    "meaning": "sloping/ willing to do something/ make someone disposed to do something"
+  },
+  {
+    "word": "inveterate",
+    "meaning": "long-established and unlikely to change"
+  },
+  {
+    "word": "miserly",
+    "meaning": "of or characteristic by of a miser/(quantity) pitiably small/ inadequate"
+  },
+  {
+    "word": "patent",
+    "meaning": "government authority or license/ easily recognizable"
+  },
+  {
+    "word": "petulant",
+    "meaning": "bad-tempered/ peevish/ childishly sulky"
+  },
+  {
+    "word": "pithy",
+    "meaning": "(of plant) containing much pith, (of language or style) terse and vigorously expressive"
+  },
+  {
+    "word": "pithy",
+    "meaning": "(of plant) containing much pith, (of language or style) terse and vigorously expressive"
+  },
+  {
+    "word": "sanctimonious",
+    "meaning": "making a show of being morally superior to other people/ self-righteous"
+  },
+  {
+    "word": "sound",
+    "meaning": "not damaged/ good judgment/ competent/ an idea or impression conveyed by words"
+  },
+  {
+    "word": "tarnish",
+    "meaning": "make or become less valuable or respected"
+  },
+  {
+    "word": "tepid",
+    "meaning": "lukewarm/ showing little enthusiasm"
+  },
+  {
+    "word": "upbraid",
+    "meaning": "find fault with/ scold"
+  },
+  {
+    "word": "vexation",
+    "meaning": "the state of being annoyed, frustrated or worried"
+  },
+  {
+    "word": "abet",
+    "meaning": "encourage or assist someone to do something wrong"
+  },
+  {
+    "word": "accessible",
+    "meaning": "able to be reached or entered"
+  },
+  {
+    "word": "acquisitive",
+    "meaning": "excessively interested in acquiring money or materials"
+  },
+  {
+    "word": "amalgamate",
+    "meaning": "combine or unite to form one organization or structure"
+  },
+  {
+    "word": "augment",
+    "meaning": "make something greater by adding to it, increase"
+  },
+  {
+    "word": "aversion",
+    "meaning": "a strong dislike or disinclination"
+  },
+  {
+    "word": "blithe",
+    "meaning": "showing a casual and cheerful indifference considered to be callous or improper"
+  },
+  {
+    "word": "contempt",
+    "meaning": "the feeling that a person or a thing is worthless or beneath consideration"
+  },
+  {
+    "word": "dawdle",
+    "meaning": "waste time, be slow"
+  },
+  {
+    "word": "deflect",
+    "meaning": "cause to change direction/ cause to deviate from intended"
+  },
+  {
+    "word": "discount",
+    "meaning": "regard as being unworthy of consideration"
+  },
+  {
+    "word": "dissident",
+    "meaning": "in opposition of official policy/ dissenting"
+  },
+  {
+    "word": "efficacious",
+    "meaning": "successful in producing a desired result, effective"
+  },
+  {
+    "word": "equitable",
+    "meaning": "fair and impartial"
+  },
+  {
+    "word": "erratic",
+    "meaning": "not even or regular in pattern or movement, unpredictable"
+  },
+  {
+    "word": "industrious",
+    "meaning": "diligent and hardworking"
+  },
+  {
+    "word": "inform",
+    "meaning": "give facts or information"
+  },
+  {
+    "word": "irksome",
+    "meaning": "irritation, annoying"
+  },
+  {
+    "word": "manacle",
+    "meaning": "shackles/ handcuffs"
+  },
+  {
+    "word": "modest",
+    "meaning": "not large, elaborate or expensive/ self-deprecating"
+  },
+  {
+    "word": "noxious",
+    "meaning": "harmful, poisonous or very unpleasant"
+  },
+  {
+    "word": "pernicious",
+    "meaning": "having a harmful effect especially in a gradual way"
+  },
+  {
+    "word": "predicament",
+    "meaning": "a difficult, unpleasant or embarrassing situation"
+  },
+  {
+    "word": "proficient",
+    "meaning": "competent or skilled in doing or using something"
+  },
+  {
+    "word": "scorn",
+    "meaning": "contempt/ refuse to do something because one is too proud"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "of less or secondary importance"
+  },
+  {
+    "word": "unseemly",
+    "meaning": "not proper or appropriate"
+  },
+  {
+    "word": "veritable",
+    "meaning": "used for emphasis, often to quality a metaphor"
+  },
+  {
+    "word": "acolyte",
+    "meaning": "an assistant or follower"
+  },
+  {
+    "word": "anoint",
+    "meaning": "rubbing with oil/ choose as successor to or leading candidate for a position"
+  },
+  {
+    "word": "base",
+    "meaning": "use as the foundation or starting point of something/ sordid, improper, low"
+  },
+  {
+    "word": "coercion",
+    "meaning": "the action or practice of persuading someone to do something by using force or threat"
+  },
+  {
+    "word": "coin",
+    "meaning": "invent, create/ money"
+  },
+  {
+    "word": "cunning",
+    "meaning": "skill in achieving one's ends by deceit"
+  },
+  {
+    "word": "discomfort",
+    "meaning": "make someone feel uneasy or embarrassed"
+  },
+  {
+    "word": "dissent",
+    "meaning": "disagreement"
+  },
+  {
+    "word": "distill",
+    "meaning": "purify / extract the essential meaning or most important aspects of"
+  },
+  {
+    "word": "dubious",
+    "meaning": "hesitating/ not to be relied upon, morally suspect"
+  },
+  {
+    "word": "ebullient",
+    "meaning": "cheerful and full of energy"
+  },
+  {
+    "word": "facetious",
+    "meaning": "treating serious issues with deliberately inappropriate humor; flippant"
+  },
+  {
+    "word": "fallible",
+    "meaning": "capable of making mistakes or being wrongs"
+  },
+  {
+    "word": "florid",
+    "meaning": "having red or flushed complexion/ excessively intricate or elaborate"
+  },
+  {
+    "word": "gawky",
+    "meaning": "nervously awkward and ungainly"
+  },
+  {
+    "word": "inveigle",
+    "meaning": "persuade someone to do something by means of deception or flattered"
+  },
+  {
+    "word": "jettison",
+    "meaning": "abandon or discard/ throw or drop"
+  },
+  {
+    "word": "mendacity",
+    "meaning": "untruthfulness"
+  },
+  {
+    "word": "munificent",
+    "meaning": "characterized by great generosity"
+  },
+  {
+    "word": "naive",
+    "meaning": "showing lack of experience, innocent"
+  },
+  {
+    "word": "noble",
+    "meaning": "belonging by rank/ high moral principles/superior quality"
+  },
+  {
+    "word": "parochial",
+    "meaning": "narrow-minded, limited outbreak or scope/ church"
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "lacking excitement, dull/ walking rather than vehicle"
+  },
+  {
+    "word": "prevaricate",
+    "meaning": "speak or act in an evasive way"
+  },
+  {
+    "word": "prime",
+    "meaning": "of first importance/ most suitable/ hey-day"
+  },
+  {
+    "word": "radical",
+    "meaning": "far-reaching, thorough, revolutionary"
+  },
+  {
+    "word": "recrudescence",
+    "meaning": "the recurrence of an undesirable condition"
+  },
+  {
+    "word": "temporal",
+    "meaning": "secular, worldly, non-spiritual"
+  },
+  {
+    "word": "transitory",
+    "meaning": "not permanent"
+  },
+  {
+    "word": "viable",
+    "meaning": "capable of working successfully feasible"
+  },
+  {
+    "word": "abreast",
+    "meaning": "side by side and facing the same way"
+  },
+  {
+    "word": "confound",
+    "meaning": "cause surprise or confusion/ prove theory wrong/ defeat/ mixed up with something else"
+  },
+  {
+    "word": "digression",
+    "meaning": "a temporary departure from the main subject in speech or writing"
+  },
+  {
+    "word": "discrepancy",
+    "meaning": "an illogical or surprising lack of compatibility or inconsistency"
+  },
+  {
+    "word": "duplicitous",
+    "meaning": "deceitful, (law) containing more than one allegation"
+  },
+  {
+    "word": "expedient",
+    "meaning": "convenient and practical although possibly improper or immoral"
+  },
+  {
+    "word": "fabricate",
+    "meaning": "invent in order to deceive/ construct or manufacture especially from prepared component"
+  },
+  {
+    "word": "glum",
+    "meaning": "looking or feeling dejected, morose, gloomy"
+  },
+  {
+    "word": "harbinger",
+    "meaning": "a person or thing that announces or signals the approaches of another"
+  },
+  {
+    "word": "intrinsic",
+    "meaning": "belonging naturally, essential"
+  },
+  {
+    "word": "largess",
+    "meaning": "generosity in bestowing money or gifts"
+  },
+  {
+    "word": "libertine",
+    "meaning": "a person who freely indulges in sensual pleasures without moral principles"
+  },
+  {
+    "word": "malfeasance",
+    "meaning": "wrongdoing, especially by a public official"
+  },
+  {
+    "word": "manifest",
+    "meaning": "obvious/ demonstrate/ become apparent through the appearance of a symptoms, (of ghost) appear"
+  },
+  {
+    "word": "minute",
+    "meaning": "insignificant/ (of investigation) taking the smaller points into consideration/ summarized record"
+  },
+  {
+    "word": "modish",
+    "meaning": "following what is currently popular and fashionable"
+  },
+  {
+    "word": "nascent",
+    "meaning": "just coming into existence and beginning to display signs of future potential"
+  },
+  {
+    "word": "perennial",
+    "meaning": "everlasting/ permanently engaged in a specified role or way of life"
+  },
+  {
+    "word": "pious",
+    "meaning": "devoutly religious/hypocrite/ (of a hope) sincere but not likely to be fulfilled"
+  },
+  {
+    "word": "providential",
+    "meaning": "occurring at a favorable time/ involving divine foresight or providence"
+  },
+  {
+    "word": "prowess",
+    "meaning": "expertise in a particular activity or field/ bravery in battle"
+  },
+  {
+    "word": "schism",
+    "meaning": "split between strongly opposed sections or parties"
+  },
+  {
+    "word": "slander",
+    "meaning": "defame, making false statements"
+  },
+  {
+    "word": "stalwart",
+    "meaning": "loyal, reliable and hardworking"
+  },
+  {
+    "word": "supplicate",
+    "meaning": "ask or beg something earnestly or humbly"
+  },
+  {
+    "word": "terse",
+    "meaning": "sparing in the use of words, abrupt"
+  },
+  {
+    "word": "tirade",
+    "meaning": "a long angry speech of criticism or accusation"
+  },
+  {
+    "word": "universal",
+    "meaning": "applicable to all cases/ ubiquitous"
+  },
+  {
+    "word": "vanquish",
+    "meaning": "defeat thoroughly, conquer"
+  },
+  {
+    "word": "woeful",
+    "meaning": "very bad/ causing sorrow or misery"
+  },
+  {
+    "word": "abject",
+    "meaning": "experienced or present to the maximum degree (of bad) extremely unpleasant and degrading"
+  },
+  {
+    "word": "amicable",
+    "meaning": "characterized by friendliness"
+  },
+  {
+    "word": "animosity",
+    "meaning": "strong hostility"
+  },
+  {
+    "word": "aver",
+    "meaning": "state or assert to the case, declare/ allege as fact in a support of a plea(LAW context)"
+  },
+  {
+    "word": "barrage",
+    "meaning": "overwhelming number of questions, criticisms etc"
+  },
+  {
+    "word": "cathartic",
+    "meaning": "providing psychological belief through the open expression of strong emotions"
+  },
+  {
+    "word": "decipher",
+    "meaning": "succeed in understanding interpreting or identifying"
+  },
+  {
+    "word": "delusion",
+    "meaning": "deception misleading / mental disorder"
+  },
+  {
+    "word": "dispense",
+    "meaning": "supply or release/ get rid of"
+  },
+  {
+    "word": "eloquent",
+    "meaning": "clearly expressing or indicating something"
+  },
+  {
+    "word": "enthrall",
+    "meaning": "capture the fascinated attention of, charm, enchant"
+  },
+  {
+    "word": "eradicate",
+    "meaning": "destroy completely"
+  },
+  {
+    "word": "fledgling",
+    "meaning": "immature, inexperienced, underdeveloped, emerging"
+  },
+  {
+    "word": "fortitude",
+    "meaning": "courage in pain or adversity"
+  },
+  {
+    "word": "fortuitous",
+    "meaning": "happening by chance rather than intention"
+  },
+  {
+    "word": "goad",
+    "meaning": "provoke or annoy someone as the stimulate on action"
+  },
+  {
+    "word": "imminent",
+    "meaning": "about to happen"
+  },
+  {
+    "word": "incontrovertible",
+    "meaning": "not able to be denied or disputed"
+  },
+  {
+    "word": "itinerant",
+    "meaning": "traveling from place to place"
+  },
+  {
+    "word": "magnanimous",
+    "meaning": "generous or forgiving"
+  },
+  {
+    "word": "meritorious",
+    "meaning": "deserving reward or praise"
+  },
+  {
+    "word": "mutiny",
+    "meaning": "open rebellion against the proper authorities"
+  },
+  {
+    "word": "perseverance",
+    "meaning": "persistence in doing something despite difficulty"
+  },
+  {
+    "word": "render",
+    "meaning": "provide/ make/ cause to become/ represent/ translate/ perform/ melt down/ cover"
+  },
+  {
+    "word": "repertoire",
+    "meaning": "collection/ stock of skills or types of behavior or that a person habitually does"
+  },
+  {
+    "word": "resilient",
+    "meaning": "able to withstand or recover quickly from difficulty conditions"
+  },
+  {
+    "word": "resolute",
+    "meaning": "admirably purposeful, determined"
+  },
+  {
+    "word": "supple",
+    "meaning": "flexible/ easily manipulated"
+  },
+  {
+    "word": "valor",
+    "meaning": "great courage in the face of danger"
+  },
+  {
+    "word": "cumbersome",
+    "meaning": "unwieldy, unmanageable, complicated"
+  },
+  {
+    "word": "unprecedented",
+    "meaning": "never done or known before"
+  },
+  {
+    "word": "stinting",
+    "meaning": "supply ungenerous or inadequate amount of something"
+  },
+  {
+    "word": "extrapolate",
+    "meaning": "estimate or conclude something by extrapolating"
+  },
+  {
+    "word": "liability",
+    "meaning": "state of being responsible/a person whose presence or behavior likely to put one at a disadvantage"
+  },
+  {
+    "word": "euphoric",
+    "meaning": "characterized by feeling intense excitement"
+  },
+  {
+    "word": "elementary",
+    "meaning": "most basic kind/straightforward and uncomplicated"
+  },
+  {
+    "word": "heterodox",
+    "meaning": "not conforming with accepted or orthodox standards or beliefs"
+  },
+  {
+    "word": "fervent",
+    "meaning": "intensely passionate"
+  },
+  {
+    "word": "gaffe",
+    "meaning": "an unintentional act or remark causing embarrassment"
+  },
+  {
+    "word": "temper",
+    "meaning": "act as a neutralizing or counterbalancing force to something"
+  },
+  {
+    "word": "painstaking",
+    "meaning": "done with or employing great care and thoroughness"
+  },
+  {
+    "word": "economy",
+    "meaning": "careful management and available resources"
+  },
+  {
+    "word": "qualm",
+    "meaning": "uneasy feeling of doubt/misgiving, doubt"
+  },
+  {
+    "word": "exonerate",
+    "meaning": "absolve from blame for wrongdoing/release from duty"
+  },
+  {
+    "word": "implicit",
+    "meaning": "suggested though not directed expressed expressed/always to be found in/absolute"
+  },
+  {
+    "word": "phlegmatic",
+    "meaning": "unemotional and stolidly calm disposition/ self-controlled"
+  },
+  {
+    "word": "propensity",
+    "meaning": "natural tendency to behave in a particular way"
+  },
+  {
+    "word": "foment",
+    "meaning": "instigate or stir up"
+  },
+  {
+    "word": "embellish",
+    "meaning": "decorate/make more interesting by adding extra details"
+  },
+  {
+    "word": "inviolate",
+    "meaning": "free or safe from injury or violation"
+  },
+  {
+    "word": "renege",
+    "meaning": "go back on a promise, undertaking, or contact"
+  },
+  {
+    "word": "arresting",
+    "meaning": "eye-catching/seize/attract the attention/stop or check"
+  },
+  {
+    "word": "obstinate",
+    "meaning": "very difficult to change or overcome"
+  },
+  {
+    "word": "vivacious",
+    "meaning": "attractively lively and animated"
+  },
+  {
+    "word": "histrionic",
+    "meaning": "dramatic behavior designed to attract attention"
+  },
+  {
+    "word": "prodigious",
+    "meaning": "remarkably great in extent size or degree"
+  },
+  {
+    "word": "tentative",
+    "meaning": "provisional/not certain or fixed, hesitant"
+  },
+  {
+    "word": "falter",
+    "meaning": "lose strength or momentum/move hesitantly"
+  },
+  {
+    "word": "chastise",
+    "meaning": "rebuke or reprimand severely, punish"
+  },
+  {
+    "word": "intermittent",
+    "meaning": "sporadic, not continuous or steady"
+  },
+  {
+    "word": "profound",
+    "meaning": "very great or intense/showing great knowledge"
+  },
+  {
+    "word": "propagate",
+    "meaning": "reproduce/spread or promote"
+  },
+  {
+    "word": "allusive",
+    "meaning": "using or containing suggestion rather than explicit mention"
+  },
+  {
+    "word": "glib",
+    "meaning": "fluent but insincere and shallow"
+  },
+  {
+    "word": "curb",
+    "meaning": "restrain or check on something"
+  },
+  {
+    "word": "lull",
+    "meaning": "make someone feel deceptively secure or confident/calm"
+  },
+  {
+    "word": "mettlesome",
+    "meaning": "full of spirit and courage, lively"
+  },
+  {
+    "word": "astute",
+    "meaning": "shrewd"
+  },
+  {
+    "word": "fawn",
+    "meaning": "give a servile display of exaggerated flattery or affection"
+  },
+  {
+    "word": "precipitous",
+    "meaning": "dangerously high or steep/done suddenly or without careful consideration"
+  },
+  {
+    "word": "repercussion",
+    "meaning": "unintended consequence of an event or action"
+  },
+  {
+    "word": "regress",
+    "meaning": "return to a former or less developed state"
+  },
+  {
+    "word": "refute",
+    "meaning": "disprove, deny or contradict"
+  },
+  {
+    "word": "evoke",
+    "meaning": "bring or recall/elicit(response)/invoke"
+  },
+  {
+    "word": "ire",
+    "meaning": "anger"
+  },
+  {
+    "word": "languid",
+    "meaning": "having or showing disinclination for physical effort/weak from illness or fatigue"
+  },
+  {
+    "word": "mollify",
+    "meaning": "appease the anger or anxiety/reduce the severity"
+  },
+  {
+    "word": "pretentious",
+    "meaning": "ostentatious, attempting to impress by affecting greater importance or merit than is actually possessed"
+  },
+  {
+    "word": "duress",
+    "meaning": "threats, violence, constraint or other action used to coerce someone into doing something"
+  },
+  {
+    "word": "vigilant",
+    "meaning": "keeping careful watch for possible danger and difficulties"
+  },
+  {
+    "word": "headstrong",
+    "meaning": "energetically willful and determined"
+  },
+  {
+    "word": "convalescent",
+    "meaning": "recovering from illness or medical treatment"
+  },
+  {
+    "word": "nonplussed",
+    "meaning": "so surprised and confused that one is unsure how to act"
+  },
+  {
+    "word": "fret",
+    "meaning": "visibly anxious/gradually wear away by rubbing/flow in waves"
+  },
+  {
+    "word": "decry",
+    "meaning": "publicly denounce"
+  },
+  {
+    "word": "recourse",
+    "meaning": "source of help in difficult situation/legal right to demand compensation"
+  },
+  {
+    "word": "commence",
+    "meaning": "begin"
+  },
+  {
+    "word": "neutralize",
+    "meaning": "counteract, offset, counterbalance"
+  },
+  {
+    "word": "exorcise",
+    "meaning": "completely remove from one's mind or memory (unpleasant)"
+  },
+  {
+    "word": "finicky",
+    "meaning": "fussy about their needs, greater attention to detail"
+  },
+  {
+    "word": "assail",
+    "meaning": "attack/trouble/criticize strongly"
+  },
+  {
+    "word": "contravene",
+    "meaning": "offend against the prohibition/conflict with"
+  },
+  {
+    "word": "reiterate",
+    "meaning": "repeat, typically for emphasis or clarity"
+  },
+  {
+    "word": "poignant",
+    "meaning": "keen sense of sadness or regret"
+  },
+  {
+    "word": "inundate",
+    "meaning": "overwhelm with things or people to be dealt with, flood"
+  },
+  {
+    "word": "oblivion",
+    "meaning": "unaware"
+  },
+  {
+    "word": "ironclad",
+    "meaning": "covered or protected with iron"
+  },
+  {
+    "word": "plaintive",
+    "meaning": "sounding sad and mournful"
+  },
+  {
+    "word": "surmount",
+    "meaning": "overcome difficulty/stand on top of"
+  },
+  {
+    "word": "escalate",
+    "meaning": "increase rapidly, make more intense or serious"
+  },
+  {
+    "word": "denounce",
+    "meaning": "publicly declare to be wrong/inform against"
+  },
+  {
+    "word": "foil",
+    "meaning": "prevent from succeeding/frustrate the efforts"
+  },
+  {
+    "word": "deviate",
+    "meaning": "depart from an established course"
+  },
+  {
+    "word": "buoyant",
+    "meaning": "cheerful and optimistic/(economy) engaged in successful trade on activity/floating"
+  },
+  {
+    "word": "benevolent",
+    "meaning": "well meaning and kindly"
+  },
+  {
+    "word": "intertwine",
+    "meaning": "connect or link closely/twist or twine together"
+  },
+  {
+    "word": "berate",
+    "meaning": "scold or criticize angrily"
+  },
+  {
+    "word": "quiescent",
+    "meaning": "in a state or period of inactivity or dormancy"
+  },
+  {
+    "word": "mercurial",
+    "meaning": "subject to sudden or unpredictable changes of mood or mind"
+  },
+  {
+    "word": "despotic",
+    "meaning": "of or typical of a despot, tyrannical/autocratic"
+  },
+  {
+    "word": "perpetrate",
+    "meaning": "carry out or commit (harmful, illegal or immoral action)"
+  },
+  {
+    "word": "subsume",
+    "meaning": "include or absorb in something else"
+  },
+  {
+    "word": "subside",
+    "meaning": "become less intense, violent or severe/go down to a lower or the normal level"
+  },
+  {
+    "word": "condone",
+    "meaning": "accept (behavior that is considered morally wrong)"
+  },
+  {
+    "word": "tangential",
+    "meaning": "relating to or along a tangent/diverging from a previous course or line"
+  },
+  {
+    "word": "jeopardize",
+    "meaning": "threaten, endanger"
+  },
+  {
+    "word": "disinterested",
+    "meaning": "unbiased"
+  },
+  {
+    "word": "buttress",
+    "meaning": "support/increase the strength of or justification for"
+  },
+  {
+    "word": "bereft",
+    "meaning": "deprived of or lacking (something)/sad and lonely"
+  },
+  {
+    "word": "frailty",
+    "meaning": "weak and delicate/weakness in character or morals"
+  },
+  {
+    "word": "disentangle",
+    "meaning": "free from something that they are entangled with"
+  },
+  {
+    "word": "pomposity",
+    "meaning": "the quality of being pompous; self-importance"
+  },
+  {
+    "word": "delineate",
+    "meaning": "describe or portray precisely/indicate the exact"
+  },
+  {
+    "word": "conclusive",
+    "meaning": "(of evidence or argument) having or likely to have the effort of proving a case"
+  },
+  {
+    "word": "vitality",
+    "meaning": "the state of being strong and active; energy"
+  },
+  {
+    "word": "steadfast",
+    "meaning": "resolutely or dutifully firm and unwavering, loyal"
+  },
+  {
+    "word": "archetype",
+    "meaning": "a very typical example of a certain person or thing"
+  },
+  {
+    "word": "relent",
+    "meaning": "become less severe and intense"
+  },
+  {
+    "word": "grievance",
+    "meaning": "unfair treatment"
+  },
+  {
+    "word": "harangue",
+    "meaning": "a lengthy and aggressive speech"
+  },
+  {
+    "word": "auspicious",
+    "meaning": "conductive to success, favorable"
+  },
+  {
+    "word": "yield",
+    "meaning": "produce or provide/surrender/give way under force or pressure"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "proper/seize/devote to a special purpose"
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "the art of effective or persuasive speaking or writing"
+  },
+  {
+    "word": "conspire",
+    "meaning": "make secret plans jointly"
+  },
+  {
+    "word": "whimsical",
+    "meaning": "playfully fanciful/acting in a capricious manner"
+  },
+  {
+    "word": "proxy",
+    "meaning": "the authority to represent someone else"
+  },
+  {
+    "word": "sparse",
+    "meaning": "thinly dispersed or scattered, in short supply"
+  },
+  {
+    "word": "adverse",
+    "meaning": "preventing success, harmful"
+  },
+  {
+    "word": "exhort",
+    "meaning": "strongly encourage or urge"
+  },
+  {
+    "word": "poise",
+    "meaning": "graceful, composure and dignity of manner"
+  },
+  {
+    "word": "adept",
+    "meaning": "very skilled at something"
+  },
+  {
+    "word": "tedious",
+    "meaning": "too long, slow or dull"
+  },
+  {
+    "word": "rigor",
+    "meaning": "severe cold with shivering and fever"
+  },
+  {
+    "word": "articulate",
+    "meaning": "ability to speak fluently/jointed segments"
+  },
+  {
+    "word": "suspect",
+    "meaning": "doubt the genuineness"
+  },
+  {
+    "word": "play",
+    "meaning": "cunning plan/an activity done for amusement"
+  },
+  {
+    "word": "captious",
+    "meaning": "finding fault over minor issues"
+  },
+  {
+    "word": "lugubrious",
+    "meaning": "excessively mournful or dismal"
+  },
+  {
+    "word": "transcend",
+    "meaning": "go beyond the range/surpass"
+  },
+  {
+    "word": "flustered",
+    "meaning": "agitated or confused"
+  },
+  {
+    "word": "incidental",
+    "meaning": "occurring by chance/less important"
+  },
+  {
+    "word": "axiomatic",
+    "meaning": "self-evident or unquestionable"
+  },
+  {
+    "word": "macabre",
+    "meaning": "disturbing due to death imagery"
+  },
+  {
+    "word": "gullible",
+    "meaning": "easily persuaded to believe something, credulous"
+  },
+  {
+    "word": "ingrained",
+    "meaning": "firmly fixed/difficult to change"
+  },
+  {
+    "word": "tacit",
+    "meaning": "understood without being stated"
+  },
+  {
+    "word": "exorbitant",
+    "meaning": "unreasonably high (of price or amount)"
+  },
+  {
+    "word": "serene",
+    "meaning": "calm, peaceful and untroubled, tranquil"
+  },
+  {
+    "word": "treatise",
+    "meaning": "formal written work on a subject"
+  },
+  {
+    "word": "corporeal",
+    "meaning": "relating to physical body"
+  },
+  {
+    "word": "figurative",
+    "meaning": "metaphorical, not literal"
+  },
+  {
+    "word": "morose",
+    "meaning": "sullen and ill-tempered"
+  },
+  {
+    "word": "fickle",
+    "meaning": "frequently changing loyalties/capricious"
+  },
+  {
+    "word": "ramification",
+    "meaning": "a complex or unwelcome consequence of an action"
+  },
+  {
+    "word": "eclectic",
+    "meaning": "drawing from diverse sources"
+  },
+  {
+    "word": "apprehensive",
+    "meaning": "anxious about future events"
+  },
+  {
+    "word": "idiosyncratic",
+    "meaning": "peculiar or individual"
+  },
+  {
+    "word": "ardent",
+    "meaning": "very enthusiastic or passionate"
+  },
+  {
+    "word": "doctrinaire",
+    "meaning": "rigidly applying theory without flexibility"
+  },
+  {
+    "word": "officious",
+    "meaning": "intrusively offering unwanted help"
+  },
+  {
+    "word": "cease",
+    "meaning": "come or bring to an end"
+  },
+  {
+    "word": "lavish",
+    "meaning": "very generous or extravagant/ rich"
+  },
+  {
+    "word": "conductive",
+    "meaning": "having the property of conducting something"
+  },
+  {
+    "word": "equanimity",
+    "meaning": "calmness during difficult situations"
+  },
+  {
+    "word": "supplant",
+    "meaning": "supersede and replace"
+  },
+  {
+    "word": "lampoon",
+    "meaning": "ridicule publicly"
+  },
+  {
+    "word": "bombastic",
+    "meaning": "inflated and meaningless"
+  },
+  {
+    "word": "lambaste",
+    "meaning": "criticize harshly"
+  },
+  {
+    "word": "undercut",
+    "meaning": "offer lower price than competitors"
+  },
+  {
+    "word": "euphemism",
+    "meaning": "polite term/coy term"
+  },
+  {
+    "word": "turpitude",
+    "meaning": "depraved or wicked behavior"
+  },
+  {
+    "word": "peccadillo",
+    "meaning": "a relatively minor fault or sin"
+  },
+  {
+    "word": "antagonistic",
+    "meaning": "cause to become hostile"
+  },
+  {
+    "word": "barren",
+    "meaning": "unproductive/infertile/lifeless"
+  },
+  {
+    "word": "philistine",
+    "meaning": "indifferent to culture/arts"
+  },
+  {
+    "word": "relegate",
+    "meaning": "assign an inferior rank or position to"
+  },
+  {
+    "word": "dirge",
+    "meaning": "funeral lament or song"
+  },
+  {
+    "word": "imperturbable",
+    "meaning": "unable to be upset or excited, calm"
+  },
+  {
+    "word": "excoriate",
+    "meaning": "criticize severely/remove part of the surface of skin"
+  },
+  {
+    "word": "curmudgeon",
+    "meaning": "a bad-tempered person, especially an old one"
+  },
+  {
+    "word": "swindle",
+    "meaning": "deceive for money"
+  },
+  {
+    "word": "wheedle",
+    "meaning": "persuade someone to do something"
+  },
+  {
+    "word": "sentimental",
+    "meaning": "emotional"
+  },
+  {
+    "word": "miscreant",
+    "meaning": "wrongdoer,unlawful"
+  },
+  {
+    "word": "implacable",
+    "meaning": "unable to be appeased or placated"
+  },
+  {
+    "word": "haughty",
+    "meaning": "arrogantly superior and disdainful"
+  },
+  {
+    "word": "estimable",
+    "meaning": "worthy of great respect"
+  },
+  {
+    "word": "tangible",
+    "meaning": "perceptible by touch/clear and definite"
+  },
+  {
+    "word": "chary",
+    "meaning": "wary, cautiously or suspiciously reluctant to do something"
+  },
+  {
+    "word": "repugnant",
+    "meaning": "unacceptable/in conflict or incompatible with"
+  },
+  {
+    "word": "xenophobic",
+    "meaning": "having or showing a dislike against people from other counties/racist"
+  },
+  {
+    "word": "squander",
+    "meaning": "waste recklessly"
+  },
+  {
+    "word": "cajole",
+    "meaning": "persuade with flattery"
+  },
+  {
+    "word": "unalloyed",
+    "meaning": "completely pure"
+  },
+  {
+    "word": "heady",
+    "meaning": "exhilarating and intoxicating"
+  },
+  {
+    "word": "exigent",
+    "meaning": "pressing, demanding"
+  }
+]
