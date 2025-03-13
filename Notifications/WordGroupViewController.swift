@@ -441,13 +441,13 @@ extension WordListViewController: UITableViewDelegate {
         tableView.deselectRow(at: indexPath, animated: true)
         
         let word = words[indexPath.row]
-        let detailVC = WordDetailViewController(word: word)
+        let detailVC = GroupWordDetailViewController(word: word)
         navigationController?.pushViewController(detailVC, animated: true)
     }
 }
 
 // MARK: - Word Detail View Controller
-class WordDetailViewController: UIViewController {
+class GroupWordDetailViewController: UIViewController {
     
     // MARK: - Properties
     private let word: Word
