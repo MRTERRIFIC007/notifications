@@ -15,9 +15,11 @@ struct WordGroup: Codable {
     let difficulty: GroupDifficulty
     var isCompleted: Bool = false
     var lastStudied: Date?
+    var scheduledForDate: Date?
+    var isDailyGroup: Bool = false
     
     enum CodingKeys: String, CodingKey {
-        case groupId, groupName, words, difficulty, isCompleted, lastStudied
+        case groupId, groupName, words, difficulty, isCompleted, lastStudied, scheduledForDate, isDailyGroup
     }
 }
 
@@ -48,9 +50,11 @@ class WordGroupService {
     
     private var wordGroups: [WordGroup] = []
     private var isInitialized = false
+    private var currentDailyGroupId: Int?
     
     private init() {
         loadWordGroups()
+        checkAndUpdateDailyGroup()
     }
     
     // MARK: - Public Methods
@@ -129,6 +133,61 @@ class WordGroupService {
         return Double(completedCount) / Double(wordGroups.count)
     }
     
+    /// Get the current daily group
+    func getCurrentDailyGroup() -> WordGroup? {
+        if !isInitialized {
+            createWordGroups()
+        }
+        
+        // Check if we need to update the daily group
+        checkAndUpdateDailyGroup()
+        
+        // Return the current daily group
+        if let currentDailyGroupId = currentDailyGroupId {
+            return getWordGroup(byId: currentDailyGroupId)
+        }
+        
+        // If no daily group is set, get the next incomplete group
+        return getNextIncompleteGroup()
+    }
+    
+    /// Get Word objects for today's flash card study
+    func getWordsForTodayStudy() -> [Word]? {
+        guard let dailyGroup = getCurrentDailyGroup() else {
+            return nil
+        }
+        
+        return getWordObjectsForGroup(groupId: dailyGroup.groupId)
+    }
+    
+    /// Mark today's group as completed
+    func markTodayGroupAsCompleted() {
+        if let dailyGroup = getCurrentDailyGroup() {
+            markGroupAsCompleted(groupId: dailyGroup.groupId)
+        }
+    }
+    
+    /// Schedule a group for a specific date
+    func scheduleGroup(groupId: Int, forDate date: Date) {
+        if let index = wordGroups.firstIndex(where: { $0.groupId == groupId }) {
+            var updatedGroup = wordGroups[index]
+            updatedGroup.scheduledForDate = date
+            wordGroups[index] = updatedGroup
+            saveWordGroups()
+        }
+    }
+    
+    /// Get groups scheduled for a specific date
+    func getGroups(forDate date: Date) -> [WordGroup] {
+        let calendar = Calendar.current
+        return wordGroups.filter { group in
+            if let scheduledDate = group.scheduledForDate {
+                return calendar.isDate(scheduledDate, inSameDayAs: date)
+            }
+            return false
+        }
+    }
+    
     // MARK: - Private Methods
     
     /// Create word groups from the word list
@@ -171,7 +230,9 @@ class WordGroupService {
                 words: groupWords,
                 difficulty: difficulty,
                 isCompleted: false,
-                lastStudied: nil
+                lastStudied: nil,
+                scheduledForDate: nil,
+                isDailyGroup: false
             )
             
             newGroups.append(group)
@@ -207,6 +268,43 @@ class WordGroupService {
             defaults.set(encoded, forKey: "wordGroups")
         }
     }
+    
+    /// Check if we need to update the daily group
+    private func checkAndUpdateDailyGroup() {
+        let defaults = UserDefaults.standard
+        let today = Calendar.current.startOfDay(for: Date())
+        
+        // Get the last update date
+        if let lastUpdateDateData = defaults.object(forKey: "lastDailyGroupUpdateDate") as? Data,
+           let lastUpdateDate = try? JSONDecoder().decode(Date.self, from: lastUpdateDateData) {
+            
+            // If the last update was today, no need to update
+            if Calendar.current.isDate(lastUpdateDate, inSameDayAs: today) {
+                return
+            }
+        }
+        
+        // Find the next incomplete group
+        if let nextGroup = getNextIncompleteGroup() {
+            // Set this group as the daily group
+            currentDailyGroupId = nextGroup.groupId
+            
+            // Mark all groups as not daily
+            for i in 0..<wordGroups.count {
+                var group = wordGroups[i]
+                group.isDailyGroup = (group.groupId == nextGroup.groupId)
+                wordGroups[i] = group
+            }
+            
+            // Save the update date
+            if let encoded = try? JSONEncoder().encode(today) {
+                defaults.set(encoded, forKey: "lastDailyGroupUpdateDate")
+            }
+            
+            // Save the changes
+            saveWordGroups()
+        }
+    }
 }
 
 // MARK: - Extensions for UI
@@ -233,6 +331,21 @@ extension WordGroup {
             return "orange"
         case .expert:
             return "red"
+        }
+    }
+    
+    /// Get status for UI display
+    var statusInfo: String {
+        if isDailyGroup {
+            return "Today's Study Group"
+        } else if isCompleted {
+            return "Completed"
+        } else if let scheduledDate = scheduledForDate {
+            let formatter = DateFormatter()
+            formatter.dateStyle = .medium
+            return "Scheduled for \(formatter.string(from: scheduledDate))"
+        } else {
+            return "Not scheduled"
         }
     }
 } 

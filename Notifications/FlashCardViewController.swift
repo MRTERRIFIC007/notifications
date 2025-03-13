@@ -25,6 +25,7 @@ class FlashCardViewController: UIViewController {
     private let restartButton = UIButton(type: .system)
     private let viewLearnedWordsButton = UIButton(type: .system) // New button for viewing learned words
     private let takeQuizButton = UIButton(type: .system) // New button for taking a quiz
+    private let dailyGroupButton = UIButton(type: .system) // New button for daily word groups
     
     // Flash card data
     private var allWords: [Word] = []
@@ -671,27 +672,40 @@ class FlashCardViewController: UIViewController {
     }
     
     @objc private func menuButtonTapped() {
-        // Create an action sheet with all the secondary options
         let actionSheet = UIAlertController(title: "Flash Card Options", message: nil, preferredStyle: .actionSheet)
         
+        // Add actions for each option
+        actionSheet.addAction(UIAlertAction(title: "Load More Words", style: .default) { [weak self] _ in
+            self?.loadMoreWords()
+        })
+        
+        actionSheet.addAction(UIAlertAction(title: "Restart", style: .default) { [weak self] _ in
+            self?.restartFlashCards()
+        })
+        
         actionSheet.addAction(UIAlertAction(title: "View Learned Words", style: .default) { [weak self] _ in
-            self?.viewLearnedWordsButtonTapped()
+            self?.viewLearnedWords()
         })
         
         actionSheet.addAction(UIAlertAction(title: "Take Quiz", style: .default) { [weak self] _ in
-            self?.takeQuizButtonTapped()
+            self?.takeQuiz()
         })
         
-        actionSheet.addAction(UIAlertAction(title: "Restart with New Shuffle", style: .default) { [weak self] _ in
-            self?.restartButtonTapped()
+        actionSheet.addAction(UIAlertAction(title: "Daily Word Group", style: .default) { [weak self] _ in
+            self?.showDailyWordGroup()
         })
         
-        actionSheet.addAction(UIAlertAction(title: "Back to Home", style: .destructive) { [weak self] _ in
-            self?.backButtonTapped()
+        actionSheet.addAction(UIAlertAction(title: "All Word Groups", style: .default) { [weak self] _ in
+            self?.showAllWordGroups()
+        })
+        
+        actionSheet.addAction(UIAlertAction(title: "Back to Main Menu", style: .destructive) { [weak self] _ in
+            self?.dismiss(animated: true)
         })
         
         actionSheet.addAction(UIAlertAction(title: "Cancel", style: .cancel))
         
+        // Present the action sheet
         present(actionSheet, animated: true)
     }
     
@@ -813,6 +827,39 @@ class FlashCardViewController: UIViewController {
         let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: "OK", style: .default))
         present(alert, animated: true)
+    }
+    
+    // MARK: - Word Group Integration
+    
+    @objc private func showDailyWordGroup() {
+        guard let dailyGroup = WordGroupService.shared.getCurrentDailyGroup() else {
+            let alert = UIAlertController(
+                title: "No Daily Group",
+                message: "There is no daily word group available. Would you like to view all word groups?",
+                preferredStyle: .alert
+            )
+            
+            alert.addAction(UIAlertAction(title: "View All Groups", style: .default) { [weak self] _ in
+                self?.showAllWordGroups()
+            })
+            
+            alert.addAction(UIAlertAction(title: "Cancel", style: .cancel))
+            
+            present(alert, animated: true)
+            return
+        }
+        
+        let dailyFlashCardVC = DailyFlashCardViewController(groupId: dailyGroup.groupId)
+        let navigationController = UINavigationController(rootViewController: dailyFlashCardVC)
+        navigationController.modalPresentationStyle = .fullScreen
+        present(navigationController, animated: true)
+    }
+    
+    @objc private func showAllWordGroups() {
+        let wordGroupsVC = WordGroupViewController()
+        let navigationController = UINavigationController(rootViewController: wordGroupsVC)
+        navigationController.modalPresentationStyle = .fullScreen
+        present(navigationController, animated: true)
     }
 }
 

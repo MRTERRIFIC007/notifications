@@ -9,6 +9,7 @@ A comprehensive iOS application designed to help users learn and memorize GRE vo
 - [App Structure](#app-structure)
 - [Core Components](#core-components)
 - [Learning Modes](#learning-modes)
+- [Word Groups](#word-groups)
 - [Notification System](#notification-system)
 - [Data Management](#data-management)
 - [App Icon](#app-icon)
@@ -24,6 +25,7 @@ This vocabulary learning app provides an engaging platform for users to expand t
 - **GRE-Focused Content**: Curated vocabulary specifically for GRE test preparation
 - **Multiple Learning Modes**: Flash cards, quizzes, and game-based learning
 - **Personalized Learning**: Tracks words that need practice based on user performance
+- **Word Groups**: Organizes vocabulary into manageable groups of 15 words for daily study
 - **Notification System**: Scheduled reminders to practice vocabulary
 - **Visual Learning**: Images associated with words to enhance memory retention
 - **Progress Tracking**: Monitors user performance and adapts difficulty
@@ -88,6 +90,31 @@ The app maintains a personalized list of words that need practice:
 - Tracks words answered incorrectly
 - Removes words from practice after three correct answers
 - Maintains streak counts for consistent performance
+
+## Word Groups
+
+The app organizes GRE vocabulary into manageable groups of 15 words each, making it easier to study systematically:
+
+### Group Organization
+
+- **Structured Learning**: Words are divided into groups of 15 for focused daily study
+- **Difficulty Progression**: Groups are categorized as Beginner, Intermediate, Advanced, and Expert
+- **Daily Study**: A new group is automatically assigned each day for consistent learning
+- **Progress Tracking**: Groups can be marked as completed to track learning progress
+
+### Group Features
+
+- **Daily Flash Cards**: Each group can be studied using a dedicated flash card interface
+- **Scheduling**: Groups can be scheduled for specific dates to create a study plan
+- **Filtering**: Groups can be filtered by difficulty level or searched by content
+- **Integration**: Seamlessly integrates with the flash card and quiz systems
+
+### Study Flow
+
+1. Access the daily word group from the main screen or flash card menu
+2. Study the 15 words in the group using interactive flash cards
+3. Mark the group as completed when you've mastered the words
+4. The app automatically assigns a new group the next day
 
 ## Notification System
 
