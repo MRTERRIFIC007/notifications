@@ -21,6 +21,9 @@ class ViewController: UIViewController {
     private let fastestFingerButton = UIButton(type: .system)
     private let personalizedQuizButton = UIButton(type: .system)
     private let flashCardsButton = UIButton(type: .system)
+    private let enhancedFlashCardsButton = UIButton(type: .system)
+    private let learningAnalyticsButton = UIButton(type: .system)
+    private let wordGroupsButton = UIButton(type: .system)
     
     // Track if keyboard is visible
     private var isKeyboardVisible = false
@@ -146,6 +149,33 @@ class ViewController: UIViewController {
         flashCardsButton.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(flashCardsButton)
         
+        // Enhanced Flash Cards Button
+        enhancedFlashCardsButton.setTitle("Enhanced Flash Cards", for: .normal)
+        enhancedFlashCardsButton.backgroundColor = .systemGreen
+        enhancedFlashCardsButton.setTitleColor(.white, for: .normal)
+        enhancedFlashCardsButton.layer.cornerRadius = 10
+        enhancedFlashCardsButton.addTarget(self, action: #selector(enhancedFlashCardsButtonTapped), for: .touchUpInside)
+        enhancedFlashCardsButton.translatesAutoresizingMaskIntoConstraints = false
+        view.addSubview(enhancedFlashCardsButton)
+        
+        // Learning Analytics Button
+        learningAnalyticsButton.setTitle("Learning Analytics", for: .normal)
+        learningAnalyticsButton.backgroundColor = .systemYellow
+        learningAnalyticsButton.setTitleColor(.white, for: .normal)
+        learningAnalyticsButton.layer.cornerRadius = 10
+        learningAnalyticsButton.addTarget(self, action: #selector(learningAnalyticsButtonTapped), for: .touchUpInside)
+        learningAnalyticsButton.translatesAutoresizingMaskIntoConstraints = false
+        view.addSubview(learningAnalyticsButton)
+        
+        // Word Groups Button
+        wordGroupsButton.setTitle("GRE Word Groups", for: .normal)
+        wordGroupsButton.backgroundColor = .systemBrown
+        wordGroupsButton.setTitleColor(.white, for: .normal)
+        wordGroupsButton.layer.cornerRadius = 10
+        wordGroupsButton.addTarget(self, action: #selector(wordGroupsButtonTapped), for: .touchUpInside)
+        wordGroupsButton.translatesAutoresizingMaskIntoConstraints = false
+        view.addSubview(wordGroupsButton)
+        
         // Setup constraints
         NSLayoutConstraint.activate([
             titleLabel.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 40),
@@ -194,7 +224,22 @@ class ViewController: UIViewController {
             flashCardsButton.topAnchor.constraint(equalTo: personalizedQuizButton.bottomAnchor, constant: 15),
             flashCardsButton.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
             flashCardsButton.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
-            flashCardsButton.heightAnchor.constraint(equalToConstant: 50)
+            flashCardsButton.heightAnchor.constraint(equalToConstant: 50),
+            
+            enhancedFlashCardsButton.topAnchor.constraint(equalTo: flashCardsButton.bottomAnchor, constant: 15),
+            enhancedFlashCardsButton.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
+            enhancedFlashCardsButton.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
+            enhancedFlashCardsButton.heightAnchor.constraint(equalToConstant: 50),
+            
+            learningAnalyticsButton.topAnchor.constraint(equalTo: enhancedFlashCardsButton.bottomAnchor, constant: 15),
+            learningAnalyticsButton.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
+            learningAnalyticsButton.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
+            learningAnalyticsButton.heightAnchor.constraint(equalToConstant: 50),
+            
+            wordGroupsButton.topAnchor.constraint(equalTo: learningAnalyticsButton.bottomAnchor, constant: 15),
+            wordGroupsButton.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
+            wordGroupsButton.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20),
+            wordGroupsButton.heightAnchor.constraint(equalToConstant: 50)
         ])
         
         // Add tap gesture to dismiss keyboard
@@ -317,6 +362,23 @@ class ViewController: UIViewController {
         present(flashCardVC, animated: true)
     }
     
+    @objc private func enhancedFlashCardsButtonTapped() {
+        // Initialize the spaced repetition system with words if it's empty
+        if SpacedRepetitionSystem.shared.getAllWords().isEmpty {
+            initializeSpacedRepetitionSystem()
+        }
+        
+        let enhancedFlashCardVC = EnhancedFlashCardViewController()
+        enhancedFlashCardVC.modalPresentationStyle = .fullScreen
+        present(enhancedFlashCardVC, animated: true)
+    }
+    
+    @objc private func learningAnalyticsButtonTapped() {
+        let learningAnalyticsVC = LearningAnalyticsViewController()
+        learningAnalyticsVC.modalPresentationStyle = .fullScreen
+        present(learningAnalyticsVC, animated: true)
+    }
+    
     @objc private func stopNotificationsButtonTapped() {
         // Use the NotificationManager to stop all notifications
         NotificationManager.shared.stopAllNotifications()
@@ -330,6 +392,30 @@ class ViewController: UIViewController {
                                      preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: "OK", style: .default))
         present(alert, animated: true)
+    }
+    
+    @objc private func wordGroupsButtonTapped() {
+        let wordGroupsVC = WordGroupViewController()
+        let navigationController = UINavigationController(rootViewController: wordGroupsVC)
+        navigationController.modalPresentationStyle = .fullScreen
+        present(navigationController, animated: true)
+    }
+    
+    private func initializeSpacedRepetitionSystem() {
+        // Load words from the WordService
+        guard let words = WordService.shared.loadWords(style: .flashcard) else {
+            return
+        }
+        
+        // Add the first 50 words to the spaced repetition system
+        let initialWords = words.prefix(50)
+        for word in initialWords {
+            SpacedRepetitionSystem.shared.addWord(word.word, meaning: word.meaning)
+            
+            // Add example sentences if available
+            let exampleSentence = ExampleSentenceGenerator.shared.generateExampleSentence(for: word.word)
+            ExampleSentenceGenerator.shared.addExampleSentence(exampleSentence, for: word.word)
+        }
     }
 }
 
