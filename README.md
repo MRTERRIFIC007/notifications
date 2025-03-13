@@ -1,4 +1,4 @@
-# Vocabulary Learning App(FOR GRE)
+# Vocabulary Learning App(GRE)
 
 A comprehensive iOS application designed to help users learn and memorize vocabulary through interactive games, quizzes, and personalized learning experiences.
 
