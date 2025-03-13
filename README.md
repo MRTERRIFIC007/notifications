@@ -1,6 +1,6 @@
-# Vocabulary Learning App
+# Vocabulary Learning App for GRE Preparation
 
-A comprehensive iOS application designed to help users learn and memorize vocabulary through interactive games, quizzes, and personalized learning experiences.
+A comprehensive iOS application designed to help users learn and memorize GRE vocabulary through interactive games, quizzes, and personalized learning experiences.
 
 ## Table of Contents
 
@@ -17,10 +17,11 @@ A comprehensive iOS application designed to help users learn and memorize vocabu
 
 ## Overview
 
-This vocabulary learning app provides an engaging platform for users to expand their vocabulary through various interactive learning methods. The app features personalized quizzes, flash cards, fastest finger challenges, and scheduled notifications to enhance the learning experience.
+This vocabulary learning app provides an engaging platform for users to expand their GRE vocabulary through various interactive learning methods. The app features personalized quizzes, flash cards, fastest finger challenges, and scheduled notifications to enhance the learning experience and improve GRE verbal scores.
 
 ## Features
 
+- **GRE-Focused Content**: Curated vocabulary specifically for GRE test preparation
 - **Multiple Learning Modes**: Flash cards, quizzes, and game-based learning
 - **Personalized Learning**: Tracks words that need practice based on user performance
 - **Notification System**: Scheduled reminders to practice vocabulary
@@ -67,18 +68,18 @@ The app follows a modular architecture with the following main components:
 
 The flash card system allows users to:
 
-- View words with definitions and example sentences
+- View GRE words with definitions and example sentences
 - Swipe right to mark as known
 - Swipe left to mark for review
-- Filter words by categories or difficulty
+- Filter words by categories or difficulty levels relevant to the GRE
 
 ### Quiz System
 
-Multiple quiz types to test vocabulary knowledge:
+Multiple quiz types to test GRE vocabulary knowledge:
 
 - **Personalized Quiz**: Focuses on words the user struggles with
 - **Fastest Finger Quiz**: Tests speed and accuracy
-- **Multiple Choice**: Select the correct definition from options
+- **Multiple Choice**: Select the correct definition from options, similar to GRE verbal questions
 
 ### Wrong Word Tracking
 
@@ -100,7 +101,7 @@ The NotificationManager handles scheduled reminders:
 ## Data Management
 
 - **Local Storage**: Uses UserDefaults for user preferences and progress
-- **Word Database**: Pre-loaded vocabulary with definitions and examples
+- **Word Database**: Pre-loaded GRE vocabulary with definitions and examples
 - **Image Management**: Associates images with words for visual learning
 
 ## App Icon
@@ -122,10 +123,11 @@ The app features a custom-designed icon that represents vocabulary learning:
 
 1. Launch the app and explore different learning modes
 2. Set up notification preferences for regular practice reminders
-3. Use flash cards to learn new words
+3. Use flash cards to learn new GRE words
 4. Take quizzes to test your knowledge
 5. Track your progress and focus on challenging words
+6. Prepare effectively for the GRE verbal section
 
 ---
 
-This vocabulary learning app combines effective learning techniques with engaging interactive features to make vocabulary acquisition an enjoyable and efficient process.
+This vocabulary learning app combines effective learning techniques with engaging interactive features to make GRE vocabulary acquisition an enjoyable and efficient process.
